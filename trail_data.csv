@@ -1,0 +1,1372 @@
+ID,Name,Length (miles),Ascent (ft),Descent (ft),Dogs,Features,Ratings,Difficulty,State
+7031469,thompson-creek-trail-206,3.4,441.0,419.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 3]",Intermediate,AL
+7005473,stone-cuts,0.8,169.0,121.0,Leashed,"['Cave', 'Wildflowers', 'Wildlife']","[5.0, 3]",Difficult,AL
+7036990,rock-bottom-trail,3.5,241.0,247.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,AL
+7027355,dallas-branch-trail,0.4,140.0,0.0,Unknown,['-none-'],"[5.0, 1]",Easy,AL
+7028561,tuscaloosa-riverwalk,2.9,36.0,47.0,Leashed,"['River/Creek', 'Views']","[5.0, 1]",Easy,AL
+7028562,tashka-trail,8.8,783.0,727.0,Leashed,"['Lake', 'Swimming', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AL
+7036000,jekyll-n-hyde-trail,4.2,200.0,594.0,Unknown,['-none-'],"[5.0, 1]",Difficult,AL
+7034787,bomb-dog,6.4,916.0,973.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,AL
+7043916,creek-view-trail,1.4,111.0,69.0,Off-leash,"['River/Creek', 'Swimming', 'Wildlife']","[5.0, 1]",Intermediate,AL
+7043917,ccc-trail,2.5,127.0,151.0,Off-leash,"['River/Creek', 'Wildlife']","[5.0, 1]",Intermediate,AL
+7030466,east-side-trail,7.1,653.0,635.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Easy/Intermediate,AL
+7048305,lawson-branch-loop,1.9,245.0,246.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,AL
+7026385,pig-iron-trail,3.6,226.0,209.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AL
+7039251,golf-course-loop,3.3,275.0,274.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,AL
+7030465,west-side-trail,5.5,293.0,290.0,Leashed,"['Lake', 'Views']","[5.0, 1]",Easy/Intermediate,AL
+7028563,entrance-trail,0.5,8.0,64.0,Leashed,['River/Creek'],"[5.0, 1]",Intermediate,AL
+7027230,dam-trail,1.9,119.0,124.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AL
+7037041,ridge-loop-trail,3.6,211.0,233.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,AL
+7041098,lakeside-trail,1.9,92.0,100.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7027224,gristmill-trail,0.3,52.0,6.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AL
+7014369,bird-ridge-trail,2.5,3257.0,0.0,Off-leash,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 8]",Intermediate/Difficult,AK
+7013861,crow-pass-eagle-river-trail-iditarod-national-historic-trail,22.5,3213.0,4231.0,Leashed,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildlife', 'Commonly Backpacked']","[4.8, 11]",Intermediate/Difficult,AK
+7011651,mt-alice-ridge-trial,2.9,3354.0,0.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Difficult,AK
+7047194,backside-flattop-trail,1.7,1573.0,0.0,Off-leash,['Views'],"[5.0, 2]",Intermediate,AK
+7022750,flattop-mountain-trail,0.8,895.0,3.0,Leashed,['Views'],"[5.0, 3]",Difficult,AK
+7038607,south-raina-peak-trail,5.5,5373.0,133.0,Off-leash,"['Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,AK
+7051801,hope-point-trail,4.2,3510.0,35.0,Off-leash,"['Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,AK
+7020192,worthington-glacier-ridge-trail,1.3,1322.0,0.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Difficult,AK
+7021171,matanuska-peak-trail,5.5,5614.0,259.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 2]",Difficult,AK
+7048721,mount-magnificent-route,3.1,2902.0,249.0,Off-leash,['Views'],"[5.0, 1]",Intermediate/Difficult,AK
+7010600,rock-creek-trail,2.1,484.0,209.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,AK
+7055333,mt-juneau-trail,2.5,2802.0,42.0,Leashed,"['Views', 'Wildlife']","[5.0, 2]",Difficult,AK
+7054893,slaughters-ridge-trail-344,1.9,2318.0,7.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers']","[5.0, 2]",Difficult,AK
+7038053,lees-train,0.3,10.0,89.0,Leashed,['-none-'],"[5.0, 2]",Intermediate/Difficult,AK
+7046390,turnagain-arm-trail,9.4,1673.0,1570.0,Off-leash,"['Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AK
+7048446,knoya-peak-trail,2.3,1921.0,275.0,Off-leash,['Views'],"[5.0, 1]",Intermediate/Difficult,AK
+7034570,mt-roberts-trail,4.9,3839.0,379.0,,['-none-'],"[5.0, 1]",Intermediate/Difficult,AK
+7010594,mt-healy-trail,2.0,1573.0,25.0,No Dogs,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Difficult,AK
+7046013,falls-creek-trail,2.8,2873.0,4.0,Off-leash,"['Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AK
+7047374,blacktail-rocks-route,2.2,1514.0,85.0,Off-leash,['Views'],"[5.0, 1]",Difficult,AK
+7003287,azt-passage-38-south-kaibab,6.6,133.0,4883.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.9, 48]",Difficult,AZ
+7004880,bright-angel-trail,9.2,214.0,4579.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.8, 32]",Intermediate/Difficult,AZ
+7026958,cathedral-rock-trail,0.5,646.0,5.0,Unknown,['Views'],"[4.7, 30]",Intermediate/Difficult,AZ
+7002990,west-fork-oak-creek-trail,2.7,565.0,244.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.3, 33]",Easy/Intermediate,AZ
+7021951,echo-canyon-summit-trail,1.1,1140.0,1.0,No Dogs,['Views'],"[4.2, 31]",Difficult,AZ
+7015667,siphon-draw-trail-53,2.4,2555.0,117.0,Leashed,"['Views', 'Waterfall', 'Wildflowers']","[4.7, 18]",Difficult,AZ
+7002976,bear-mountain-trail,2.3,1912.0,88.0,Unknown,"['Views', 'Wildlife']","[4.7, 23]",Intermediate/Difficult,AZ
+7019273,cibecue-creek-trail,2.7,486.0,45.0,Leashed,"['Cave', 'River/Creek', 'Swimming', 'Views', 'Waterfall']","[4.8, 9]",Intermediate,AZ
+7003309,widforss-point-trail,4.9,495.0,628.0,No Dogs,"['Fall Colors', 'Views']","[5.0, 14]",Intermediate,AZ
+7013827,piestewa-peak-summit-trail-300,1.1,1050.0,0.0,No Dogs,['Views'],"[4.2, 27]",Difficult,AZ
+7003232,escalante,11.3,2156.0,2250.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 12]",,AZ
+7019648,phoneline-trail,4.2,1042.0,187.0,No Dogs,"['River/Creek', 'Views']","[5.0, 6]",Intermediate,AZ
+7003291,tapeats-creek,2.3,239.0,731.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,AZ
+7003227,deer-creek,3.2,81.0,1882.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 7]",Intermediate,AZ
+7003292,thunder-river,12.6,883.0,4615.0,No Dogs,"['Birding', 'Cave', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 6]",Intermediate/Difficult,AZ
+7035721,hangover-trail,3.2,244.0,753.0,Unknown,['Views'],"[4.9, 7]",Intermediate/Difficult,AZ
+7023878,dynamite-trail,2.4,351.0,177.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 5]",Easy/Intermediate,AZ
+7024129,superstition-ridgeline-trail,8.0,957.0,3159.0,Leashed,['-none-'],"[5.0, 4]",Difficult,AZ
+7003234,grandview-trail,4.4,54.0,3527.0,No Dogs,['Views'],"[4.5, 13]",Difficult,AZ
+7004051,hermit-trail,5.9,306.0,3716.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 13]",Intermediate/Difficult,AZ
+7010579,north-sylamore-creek-trail,23.7,3832.0,4525.0,Off-leash,"['Birding', 'Cave', 'Fall Colors', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.8, 12]",Intermediate,AR
+7042478,big-bluff-trail,0.9,36.0,485.0,No Dogs,['Views'],"[4.8, 10]",Intermediate,AR
+7009558,athens-big-fork-trail,10.2,2360.0,2514.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 5]",Difficult,AR
+7027569,womble-trail,35.5,4093.0,3748.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 2]",Intermediate/Difficult,AR
+7027256,bomber-trail,0.7,101.0,3.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,AR
+7047242,chinkapin-oak,1.4,280.0,42.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,AR
+7054764,tall-peak-trail-14c,2.9,1187.0,20.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,AR
+7042471,east-summit-trail,0.6,589.0,0.0,Leashed,['Views'],"[4.8, 5]",Difficult,AR
+7050351,buffalo-river-trail-dillard-ferry-to-spring-creek,5.9,1062.0,785.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AR
+7056011,sams-throne-trail-210,0.4,122.0,113.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Difficult,AR
+7023373,kings-bluff-trail,1.7,242.0,296.0,Leashed,"['Fall Colors', 'Views']","[5.0, 1]",Easy/Intermediate,AR
+7037395,the-ledges,3.0,304.0,94.0,Leashed,['-none-'],"[5.0, 1]",Difficult,AR
+7035258,the-white-zone,4.7,180.0,177.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,AR
+7043130,serendipity-trail,1.4,199.0,189.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,AR
+7035397,green-loop,5.0,322.0,294.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,AR
+7029533,mena-peak-trail,0.7,8.0,68.0,Leashed,['Views'],"[5.0, 1]",Intermediate/Difficult,AR
+7027152,ward-dam-road,0.6,0.0,97.0,Off-leash,"['Lake', 'Views', 'Wildlife']","[5.0, 1]",Easy,AR
+7037633,porta-potty,3.4,184.0,185.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,AR
+7056137,arkansas-river-trail,15.7,424.0,426.0,Leashed,['Views'],"[5.0, 1]",Easy,AR
+7037392,flo-ride,2.9,222.0,358.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,AR
+7005471,upper-yosemite-falls,3.0,2758.0,195.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 91]",Intermediate/Difficult,CA
+7004782,four-mile-trail,4.2,3184.0,4.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 64]",Intermediate/Difficult,CA
+7004780,mist-trail,1.6,1466.0,0.0,No Dogs,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.8, 47]",Intermediate/Difficult,CA
+7014102,lassen-peak-trail,2.5,2005.0,26.0,No Dogs,['Views'],"[4.7, 32]",Intermediate/Difficult,CA
+7004783,panorama-trail,5.6,772.0,1961.0,No Dogs,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.9, 21]",Intermediate/Difficult,CA
+7008343,high-sierra-trail,66.5,15521.0,13863.0,No Dogs,"['Hot Spring', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[4.9, 17]",Intermediate/Difficult,CA
+7022637,iron-mountain-peak-trail-10,2.9,1072.0,8.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[4.3, 30]",Intermediate,CA
+7006592,dipsea-trail,6.6,1539.0,1980.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 17]",Intermediate/Difficult,CA
+7004785,pohono-trail,12.9,1874.0,4736.0,No Dogs,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.8, 16]",Intermediate/Difficult,CA
+7008522,tokopah-falls-trail,1.9,580.0,2.0,No Dogs,"['River/Creek', 'Waterfall', 'Wildflowers']","[4.6, 23]",Intermediate,CA
+7008449,moro-rock-trail,2.0,286.0,102.0,No Dogs,['-none-'],"[4.7, 20]",Intermediate,CA
+7007566,clouds-rest-trail,9.2,1974.0,2908.0,No Dogs,"['Views', 'Wildflowers']","[4.8, 16]",Intermediate/Difficult,CA
+7009475,pct-echo-lake-to-highway-80-donner-summit,65.2,9230.0,9462.0,Unknown,"['Lake', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,CA
+7017405,north-fork-big-pine-creek-trail,7.7,3434.0,94.0,Off-leash,"['Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall']","[4.9, 11]",Intermediate,CA
+7012894,el-capitan-trail,0.3,0.0,55.0,No Dogs,['Views'],"[5.0, 4]",Easy/Intermediate,CA
+7005203,half-dome-trail,2.1,1798.0,33.0,No Dogs,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.8, 13]",,CA
+7008407,kearsarge-pass-trail,7.6,2649.0,1137.0,No Dogs,"['Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[4.7, 13]",Intermediate/Difficult,CA
+7009390,chilnualna-falls-trail,7.0,3548.0,302.0,No Dogs,"['Views', 'Waterfall']","[4.7, 16]",Intermediate/Difficult,CA
+7008147,bishop-pass-trail,11.9,2241.0,3334.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 10]",Intermediate/Difficult,CA
+7007062,duck-pass-trail,5.5,1649.0,627.0,Leashed,"['Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[4.9, 9]",Intermediate/Difficult,CA
+7001545,the-manitou-incline,1.1,2052.0,0.0,No Dogs,"['Fall Colors', 'Views']","[4.7, 58]",Difficult,CO
+7009883,ice-lake-trail,3.4,2437.0,5.0,Off-leash,"['Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers']","[4.8, 38]",Intermediate/Difficult,CO
+7006073,herman-gulch-trail-98,3.3,1692.0,32.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 33]",Intermediate,CO
+7006776,chicago-lakes-trail-52,5.4,2704.0,488.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 28]",Intermediate/Difficult,CO
+7000499,mills-lake-black-lake-trail,3.2,1405.0,12.0,No Dogs,"['Views', 'Waterfall']","[4.5, 33]",Intermediate,CO
+7003752,first-second-flatiron-trail,0.6,930.0,0.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers']","[4.4, 35]",Intermediate/Difficult,CO
+7020401,st-marys-glacier-trail,1.9,1214.0,4.0,Leashed,"['Lake', 'Swimming', 'Views']","[4.2, 37]",Intermediate,CO
+7004848,rattlesnake-gulch-trail,2.3,934.0,329.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.3, 35]",Intermediate,CO
+7003653,blue-lakes-trail,7.6,3624.0,1396.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.8, 20]",Intermediate,CO
+7006074,chief-mountain-trail-58,1.5,950.0,0.0,Leashed,"['Fall Colors', 'Views']","[4.4, 31]",Intermediate,CO
+7000459,flattop-mountain-trail,4.2,2533.0,183.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.6, 25]",Intermediate/Difficult,CO
+7004460,pawnee-pass-trail,4.5,2015.0,15.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 17]",Intermediate/Difficult,CO
+7001045,lake-haiyaha-trail,0.9,407.0,253.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildlife']","[4.6, 24]",Intermediate,CO
+7003402,arapaho-glacier-trail,7.9,2782.0,1544.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildlife']","[4.8, 14]",Intermediate/Difficult,CO
+7032812,silver-dollar-lake-trail-79,2.1,963.0,42.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers']","[4.7, 17]",Intermediate,CO
+7001018,lions-lair-trail,2.2,711.0,40.0,No Dogs,"['Views', 'Wildlife']","[4.8, 14]",Easy/Intermediate,CO
+7001047,dream-lake-trail,1.0,432.0,9.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 21]",Intermediate,CO
+7004632,isabelle-glacier-trail,2.1,1129.0,58.0,Leashed,"['Lake', 'River/Creek', 'Views', 'Wildlife']","[4.7, 19]",Intermediate/Difficult,CO
+7003342,barr-trail,12.5,7545.0,2.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[4.3, 26]",Intermediate/Difficult,CO
+7001397,horsetooth-rock-trail,2.5,1311.0,32.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.4, 25]",Intermediate,CO
+7012762,saugatuck-trail,10.7,907.0,1092.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 5]",Intermediate/Difficult,CT
+7048054,blue-trail-quinnipiac-trail,5.1,1030.0,1028.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers']","[5.0, 2]",Difficult,CT
+7046393,lions-head-trail,1.2,576.0,77.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers']","[5.0, 2]",Intermediate/Difficult,CT
+7024621,norwalk-river-valley-trail,2.0,156.0,18.0,Leashed,['-none-'],"[5.0, 1]",Easy,CT
+7036534,farmington-canal-heritage-trail-northern-connecticut-section,22.8,614.0,598.0,Leashed,['Fall Colors'],"[5.0, 1]",Easy,CT
+7047945,tower-trail,1.5,522.0,10.0,Leashed,['Views'],"[5.0, 1]",Easy,CT
+7047944,yellow-trail,2.2,501.0,249.0,Leashed,"['Fall Colors', 'Views']","[5.0, 1]",Intermediate,CT
+7003792,pomperaug-trail-blue,1.7,307.0,173.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,CT
+7045369,laurel-grove-brook-trail,0.5,42.0,2.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,CT
+7009065,green-square-trail,1.4,149.0,109.0,Unknown,"['Cave', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,CT
+7055374,yellow-trail,1.2,362.0,18.0,Unknown,['Views'],"[5.0, 1]",Easy/Intermediate,CT
+7003789,crest-trail-bluewhite,1.7,312.0,223.0,Leashed,"['Fall Colors', 'Lake', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,CT
+7062160,ives-trail-route-7-to-tarrywile-park-ives-house,4.5,1037.0,1026.0,Off-leash,"['Fall Colors', 'Lake']","[5.0, 1]",Difficult,CT
+7012745,red-trail,2.6,476.0,207.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 3]",Difficult,CT
+7003651,bluff-point-fire-road,3.6,119.0,116.0,Leashed,"['Birding', 'Fall Colors', 'Swimming']","[4.3, 8]",Easy/Intermediate,CT
+7048299,regicides-trail-blue-trail,7.2,919.0,631.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers']","[4.5, 2]",Intermediate,CT
+7002372,white-trail,3.6,412.0,98.0,Leashed,"['Birding', 'River/Creek', 'Wildlife']","[4.5, 2]",Intermediate/Difficult,CT
+7024837,penwood-yellow-trail,1.8,235.0,127.0,Unknown,['-none-'],"[4.5, 2]",Intermediate/Difficult,CT
+7035754,mt-frissell-trail,2.7,854.0,426.0,Leashed,"['Fall Colors', 'Views']","[4.0, 5]",Intermediate/Difficult,CT
+7020904,under-mountain-trail,1.9,1032.0,0.0,Leashed,['-none-'],"[4.0, 4]",Intermediate,CT
+7003451,gordons-pond-trail,2.8,24.0,10.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 4]",Easy,DE
+7026727,bob-loop-trail,5.0,34.0,35.0,Leashed,"['Birding', 'Wildlife']","[5.0, 2]",Easy,DE
+7054830,pomeroy-newark-national-recreation-trail,3.2,102.0,96.0,Leashed,['-none-'],"[5.0, 1]",Easy,DE
+7030481,chestnut-hill-trail,3.5,512.0,434.0,Unknown,"['Fall Colors', 'Views']","[4.8, 4]",Intermediate,DE
+7029135,tri-state-marker-trail,3.3,324.0,372.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[4.5, 2]",Intermediate,DE
+7047287,rocky-run-trail,1.8,293.0,318.0,Unknown,['-none-'],"[4.5, 2]",Easy/Intermediate,DE
+7029445,wendel-cassel-trail,3.0,323.0,325.0,Unknown,"['Fall Colors', 'Views']","[4.0, 2]",Intermediate,DE
+7029406,double-horseshoe-trail,1.8,133.0,129.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[4.0, 2]",Intermediate/Difficult,DE
+7029707,twin-valley-trail,3.8,478.0,380.0,Unknown,['-none-'],"[4.0, 1]",Intermediate,DE
+7037284,rittenhouse-trail,4.3,370.0,387.0,Unknown,['River/Creek'],"[4.0, 1]",Intermediate,DE
+7032623,cross-country-trail,3.3,246.0,250.0,Leashed,"['Birding', 'River/Creek', 'Swimming', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy/Intermediate,DE
+7044551,purple-trail,0.7,9.0,14.0,Leashed,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,DE
+7042137,newark-reservoir-path,1.1,26.0,23.0,Leashed,['-none-'],"[4.0, 1]",Easy,DE
+7045881,smith-bridge-to-ramsay-road,1.4,209.0,181.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,DE
+7054767,little-jersey-trail,7.8,444.0,444.0,Leashed,['Fall Colors'],"[4.0, 1]",Easy,DE
+7029405,earth-day-trail,0.6,27.0,77.0,Unknown,"['Fall Colors', 'Views']","[4.0, 1]",Easy/Intermediate,DE
+7023496,david-english-trail,2.8,315.0,167.0,Unknown,['-none-'],"[3.7, 3]",Intermediate,DE
+7023497,bryans-field,2.0,201.0,207.0,Unknown,['-none-'],"[3.7, 3]",Easy/Intermediate,DE
+7047291,brandywine-trail,2.7,216.0,202.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[3.5, 2]",Easy,DE
+7029444,charles-bailey-trail,2.7,198.0,196.0,Unknown,"['Fall Colors', 'Views']","[3.5, 2]",Easy/Intermediate,DE
+7022036,lake-louisa-jog-trail,3.4,100.0,34.0,Leashed,"['Birding', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,FL
+7016799,anhinga-trail,0.5,0.0,0.0,No Dogs,"['Birding', 'Wildlife']","[4.8, 6]",Easy,FL
+7032097,yellow-blaze-trail,3.2,3.0,5.0,Leashed,"['Lake', 'Wildlife']","[5.0, 2]",Easy/Intermediate,FL
+7044757,ocean-to-lake-trail-jw-corbett-section,16.2,260.0,261.0,Leashed,"['Birding', 'Views']","[5.0, 1]",Intermediate,FL
+7048810,florida-trail-apalachicola-west,35.2,304.0,270.0,Unknown,"['Birding', 'Lake', 'River/Creek', 'Commonly Backpacked']","[5.0, 1]",Difficult,FL
+7043570,clermont-clay-trail,10.2,221.0,218.0,Leashed,['Views'],"[5.0, 1]",Easy,FL
+7044897,florida-national-scenic-trail-cassia-to-bear-pond,7.9,96.0,118.0,Leashed,['River/Creek'],"[5.0, 1]",Easy/Intermediate,FL
+7037697,z-trail-hanna-park,3.2,4.0,3.0,Unknown,['-none-'],"[5.0, 1]",Difficult,FL
+7043751,sand-lake-loop,0.4,21.0,20.0,Leashed,"['Birding', 'Lake']","[5.0, 1]",Easy,FL
+7045003,lower-wekiva-loop,6.3,63.0,45.0,Leashed,['River/Creek'],"[5.0, 1]",Easy/Intermediate,FL
+7043844,marsh-rabbit-run,0.7,3.0,2.0,No Dogs,"['Birding', 'Wildlife']","[5.0, 1]",Easy,FL
+7053462,big-pine-trail,2.9,58.0,76.0,Unknown,['-none-'],"[5.0, 1]",Easy,FL
+7016747,fallen-log-crossing,0.6,40.0,39.0,Unknown,['Views'],"[5.0, 1]",Easy,FL
+7045901,cypress-boardwalk,0.5,32.0,43.0,No Dogs,"['Birding', 'Lake', 'Views', 'Wildlife']","[5.0, 1]",Easy,FL
+7048977,blackwater-cutoff-trail,0.8,4.0,1.0,No Dogs,"['Birding', 'Wildlife']","[5.0, 1]",Easy,FL
+7053286,blackrock-trail,1.8,24.0,49.0,No Dogs,"['Birding', 'Swimming', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,FL
+7024790,red-trail,1.1,26.0,19.0,Leashed,"['Birding', 'Wildlife']","[5.0, 1]",Easy,FL
+7043846,wading-bird-way,0.7,5.0,8.0,No Dogs,"['Birding', 'Wildlife']","[5.0, 1]",Easy,FL
+7043299,heron-hideout,0.3,1.0,0.0,No Dogs,"['Birding', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy,FL
+7043839,east-west-connector-trail,1.8,27.0,65.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,FL
+7019570,west-rim-loop-trail,3.6,505.0,564.0,No Dogs,"['Cave', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.9, 15]",Intermediate,GA
+7031453,hike-inn-lodge-trail,5.6,1288.0,548.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[5.0, 4]",Intermediate/Difficult,GA
+7021943,high-shoals-falls-trail,1.2,11.0,560.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildlife']","[4.7, 10]",Intermediate,GA
+7044803,dukes-creek-falls,1.2,8.0,355.0,Leashed,"['River/Creek', 'Views', 'Waterfall']","[5.0, 4]",Easy/Intermediate,GA
+7048869,yonah-mountain-trail-632,2.3,1448.0,30.0,Leashed,['Views'],"[4.6, 11]",Intermediate,GA
+7022504,bear-creek-trail,5.9,840.0,675.0,Leashed,['-none-'],"[5.0, 3]",Intermediate,GA
+7051269,hurricane-falls-trail,0.3,173.0,210.0,Leashed,"['River/Creek', 'Views', 'Waterfall']","[5.0, 3]",Intermediate,GA
+7033093,cliatt-creek-nature-loop-trail,2.3,214.0,221.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[5.0, 3]",Easy/Intermediate,GA
+7052340,cherokee-trail-100,3.4,260.0,252.0,Leashed,['-none-'],"[5.0, 3]",Easy,GA
+7052341,creek-trail-200,3.6,254.0,270.0,Leashed,['-none-'],"[5.0, 3]",Easy/Intermediate,GA
+7002419,crow-valley-trail-buzzards-roost,2.0,779.0,53.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,GA
+7034706,great-wall,6.9,546.0,569.0,Unknown,['-none-'],"[5.0, 2]",Easy/Intermediate,SC
+7045443,bartram-green-loop,6.4,604.0,603.0,Off-leash,['-none-'],"[5.0, 2]",Easy,GA
+7034895,yellow-trail,5.7,323.0,375.0,Leashed,['-none-'],"[5.0, 2]",Easy/Intermediate,GA
+7027835,bridge-trail,0.4,0.0,125.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,GA
+7050530,pine-pong-trail,1.1,83.0,93.0,Unknown,['-none-'],"[5.0, 2]",Easy/Intermediate,GA
+7034542,lake-side-trail,1.4,189.0,185.0,Off-leash,['-none-'],"[5.0, 2]",Easy/Intermediate,GA
+7034713,pinhoti-east-armuchee-to-snake-creek-gap,14.7,2303.0,2010.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Intermediate/Difficult,GA
+7035538,jake-mountain-trail,4.9,548.0,580.0,Unknown,['River/Creek'],"[5.0, 1]",Intermediate,GA
+7037428,chattanooga-connector-trail-cct,4.2,143.0,598.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,GA
+7006698,hanakapiai-trail,1.7,705.0,19.0,Unknown,"['Views', 'Waterfall']","[4.9, 10]",Intermediate/Difficult,HI
+7012526,awaawapuhi-trail,3.0,29.0,1664.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[4.7, 11]",Intermediate,HI
+7009540,halemauu-trail,10.3,1074.0,2679.0,No Dogs,"['Birding', 'Views', 'Wildflowers']","[4.6, 9]",Intermediate/Difficult,HI
+7009544,sliding-sands-trail,8.0,60.0,3155.0,No Dogs,"['Views', 'Wildflowers']","[4.7, 9]",Intermediate/Difficult,HI
+7047524,waahila-ridge-trail,2.5,1237.0,82.0,Leashed,"['Views', 'Wildflowers']","[5.0, 4]",Intermediate/Difficult,HI
+7051906,kalepa-ridge-trail,1.0,4.0,576.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,HI
+7047625,skyline-trail,5.7,0.0,2523.0,Leashed,['Views'],"[5.0, 1]",Intermediate/Difficult,HI
+7029699,muliwai-trail,7.3,1802.0,1801.0,Off-leash,['-none-'],"[5.0, 1]",Difficult,HI
+7034949,kealia-trail,2.9,1685.0,3.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Difficult,HI
+7030616,hideaway-beach-access,0.2,0.0,101.0,Unknown,"['Swimming', 'Views', 'Wildflowers']","[5.0, 1]",Intermediate/Difficult,HI
+7013355,nualolo-trail,3.8,253.0,1696.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[4.7, 6]",Difficult,HI
+7015637,kaena-point,5.3,158.0,158.0,No Dogs,"['Birding', 'Views']","[4.4, 11]",Easy/Intermediate,HI
+7009549,kaupo-trail,6.9,0.0,5405.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[4.3, 6]",Difficult,HI
+7020522,lanikai-pill-box-trail-kaiwa-ridge-trail,1.6,581.0,636.0,Unknown,"['Swimming', 'Views']","[4.3, 12]",Intermediate,HI
+7019692,wiliwilinui-ridge-trail,2.3,1236.0,0.0,Leashed,['Views'],"[4.4, 7]",Intermediate/Difficult,HI
+7009348,kileauea-iki-trail,2.1,352.0,410.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 3]",Intermediate,HI
+7036526,manana-trail,5.0,1692.0,91.0,Leashed,['-none-'],"[4.5, 4]",Intermediate/Difficult,HI
+7050669,koko-head-crater-trail,0.5,960.0,0.0,No Dogs,"['Birding', 'Views', 'Wildflowers']","[4.5, 4]",,HI
+7049028,waihee-ridge-trail,2.1,1450.0,1.0,Leashed,"['Views', 'Waterfall']","[4.5, 4]",Intermediate/Difficult,HI
+7013267,honopu-trail,2.2,40.0,1212.0,Unknown,"['Birding', 'Views', 'Wildlife']","[4.5, 4]",Difficult,HI
+7026566,huckleberry-trail,3.4,382.0,221.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Easy/Intermediate,ID
+7048672,sunset-mountain-road-316,4.8,1852.0,112.0,Off-leash,"['Spring', 'Views']","[5.0, 3]",Intermediate/Difficult,ID
+7031465,targhee-creek-trail,6.5,2147.0,75.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,ID
+7003454,around-the-mountain,7.0,835.0,530.0,Off-leash,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,ID
+7020845,louie-lake-trail,4.2,1499.0,694.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 10]",Intermediate,ID
+7020773,seven-devils-trail-124,14.8,3710.0,3432.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,ID
+7020842,boulder-lake-trail-105,2.5,775.0,50.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 9]",Intermediate,ID
+7032813,waterfall-canyon-trail,5.0,2173.0,20.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,ID
+7019698,west-fork-rapid-river-trail-113,12.5,4270.0,402.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ID
+7018630,sterling-justice,6.6,695.0,1044.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,ID
+7019272,deadwood-hot-springs-trail,1.2,244.0,35.0,Unknown,"['Fall Colors', 'Hot Spring', 'Lake', 'River/Creek', 'Swimming', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ID
+7019696,south-boise-trail-101a,11.8,1886.0,1612.0,Unknown,"['Birding', 'Lake', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,ID
+7035628,bernard-peak-trail-37,4.8,1940.0,20.0,Unknown,['Views'],"[5.0, 1]",Intermediate,ID
+7035083,washington-lake-trail,7.3,968.0,2052.0,Unknown,"['Lake', 'Views']","[5.0, 2]",Intermediate,ID
+7041880,reynolds-creek-trail-w610,4.4,1721.0,60.0,Off-leash,"['River/Creek', 'Views', 'Wildflowers']","[5.0, 1]",Intermediate/Difficult,ID
+7025315,east-fork-lake-fork-trail-104,10.2,2050.0,2324.0,Off-leash,"['Fall Colors', 'Lake', 'Views']","[5.0, 1]",Difficult,ID
+7038115,silver-lake,1.6,1340.0,34.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers']","[5.0, 1]",Intermediate/Difficult,ID
+7011684,sherwood-forest-trail,1.3,78.0,414.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,ID
+7003541,adams-gulch,4.3,0.0,2053.0,Off-leash,['-none-'],"[5.0, 1]",Difficult,ID
+7035227,alturas-lake-creek-trail,5.5,1133.0,25.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Difficult,ID
+7027729,merrill-woods-trail,0.3,41.0,24.0,No Dogs,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,IL
+7035622,stonehouse-trail-black-trail,3.9,334.0,313.0,Leashed,['River/Creek'],"[5.0, 1]",Intermediate,IL
+7047816,trail-481,1.8,119.0,320.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,IL
+7012314,mississippi-river-trail,4.7,56.0,71.0,Unknown,"['River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MO
+7012336,river-bluff-trail,0.9,122.0,81.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MO
+7016134,red-loop,2.9,43.0,42.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,IL
+7039592,trail-7,3.6,141.0,208.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,IL
+7027728,floodplain-trail,2.9,165.0,161.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,IL
+7054132,mississippi-river-greenway-north-riverfront-trail,14.0,309.0,305.0,Unknown,['River/Creek'],"[5.0, 1]",Easy/Intermediate,MO
+7030609,rat-trail,2.3,233.0,225.0,Unknown,['-none-'],"[5.0, 1]",Difficult,IL
+7050494,eagle-ridge,0.1,47.0,0.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,IL
+7016139,black-trail,1.2,49.0,21.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,IL
+7005035,outer-loop,1.2,48.0,67.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,IL
+7039697,trail-c,2.9,440.0,454.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,IL
+7039700,trail-b,3.3,429.0,426.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,IL
+7030607,fox-trail,2.4,163.0,207.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,IL
+7030594,eagle-trail,0.5,44.0,13.0,Unknown,['Lake'],"[5.0, 1]",Difficult,IL
+7012330,nature-trail,1.5,107.0,107.0,Unknown,"['River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MO
+7030606,a-loop,1.1,136.0,136.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,IL
+7030605,baby-rat,0.7,73.0,27.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,IL
+7024612,amy-weingartner-branigin-peninsula-preserve-trail,1.1,97.0,201.0,Leashed,"['Lake', 'Views']","[5.0, 3]",Easy/Intermediate,IN
+7023998,low-gap-backcountry-trail,10.6,964.0,968.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[4.5, 11]",Intermediate/Difficult,IN
+7052406,trail-8,3.5,512.0,511.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildlife']","[5.0, 2]",Intermediate,IN
+7014336,rim-trail,1.5,130.0,43.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,IN
+7035190,perimeter-loop,5.7,247.0,246.0,Unknown,"['Lake', 'Views']","[5.0, 2]",Easy/Intermediate,IN
+7033823,trail-9,2.1,131.0,153.0,Leashed,"['River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 2]",Intermediate,IN
+7040465,trail-4,2.0,229.0,226.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,IN
+7052221,trail-5,0.8,39.0,287.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 2]",Difficult,IN
+7060150,trail-1,3.9,115.0,115.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views']","[5.0, 2]",Intermediate,IN
+7025935,buffalo-trace-trail,4.9,464.0,464.0,Leashed,"['Birding', 'Wildlife']","[5.0, 1]",Easy,IN
+7040141,hesitation-point-trail,2.5,107.0,347.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,IN
+7051319,hemlock-cliffs-main-trail,1.2,141.0,136.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,IN
+7033820,trail-5,0.7,45.0,130.0,Leashed,"['Birding', 'Lake', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy/Intermediate,IN
+7037315,grandview-loop,5.1,406.0,486.0,Leashed,['Views'],"[5.0, 1]",Intermediate,IN
+7040145,walnut-trail,2.0,156.0,204.0,Leashed,['-none-'],"[5.0, 1]",Difficult,IN
+7025955,b-line-trail,3.2,0.0,138.0,Leashed,['-none-'],"[5.0, 1]",Easy,IN
+7033515,christmas-trail,1.6,24.0,37.0,Leashed,['Fall Colors'],"[5.0, 1]",Intermediate/Difficult,IN
+7036217,sycamore-ridge-trail,4.0,146.0,147.0,Unknown,['-none-'],"[5.0, 1]",Easy,IN
+7053436,benton-dam-trail,1.3,15.0,14.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,IN
+7038693,breeden-ridge-trail,2.8,188.0,303.0,Unknown,['-none-'],"[5.0, 1]",,IN
+7035485,mount-hosmer-drive,0.9,386.0,67.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,IA
+7041888,dogwood-hill,0.2,51.0,2.0,Leashed,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,IA
+7050301,saddle-loop-trail,3.4,599.0,521.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers']","[5.0, 1]",Intermediate/Difficult,IA
+7033899,foresters-trail,1.8,368.0,258.0,Unknown,"['Birding', 'Fall Colors', 'Wildflowers', 'Commonly Backpacked']","[5.0, 1]",Intermediate,IA
+7035477,strong-point-trail,0.1,0.0,89.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,IA
+7035480,lookout-loop-trail,0.6,60.0,125.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,IA
+7035479,big-burn-trail,0.7,5.0,321.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,IA
+7035478,beck-point-trail,0.1,0.0,152.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,IA
+7017556,riverside-trail,0.9,29.0,33.0,Unknown,['-none-'],"[5.0, 1]",Easy,IA
+7035218,heritage-trail-belmond,2.3,19.0,26.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildflowers']","[5.0, 1]",Easy,IA
+7035481,pool-road-trail,0.4,0.0,299.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,IA
+7026923,woodland-trail-spur-2,0.5,46.0,56.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring']","[5.0, 1]",Intermediate,IA
+7035551,lake-ahquabi-trail,6.4,524.0,518.0,Unknown,"['Fall Colors', 'Lake', 'Views']","[4.5, 2]",Intermediate,IA
+7016998,effigy-mounds-south-unit,1.8,499.0,72.0,Off-leash,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers']","[4.3, 3]",Intermediate/Difficult,IA
+7012632,ledges-canyon-trail,0.2,102.0,102.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 4]",Easy/Intermediate,IA
+7023438,tallgrass-trail,2.1,99.0,86.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 3]",Easy/Intermediate,IA
+7024560,denmans-trail,4.2,412.0,414.0,Leashed,['-none-'],"[4.0, 2]",Easy/Intermediate,IA
+7027029,coal-miners-daughter-trail,1.7,99.0,110.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 2]",Intermediate,IA
+7023443,volksmarch-trail,1.3,16.0,54.0,Leashed,['Wildflowers'],"[4.0, 2]",Easy/Intermediate,IA
+7023437,savanna-trail,0.6,91.0,90.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Wildflowers']","[4.0, 2]",Easy/Intermediate,IA
+7045387,marina-loop,6.7,614.0,619.0,Unknown,"['Birding', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,KS
+7019105,south-loop,1.7,91.0,81.0,Unknown,"['Lake', 'Views']","[5.0, 2]",Easy/Intermediate,KS
+7005934,blue-trail,8.0,286.0,353.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,KS
+7028835,prairie-spirit-trail,54.5,694.0,760.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,KS
+7050907,shunga-trail,9.1,26.0,92.0,Leashed,['-none-'],"[5.0, 1]",Easy,KS
+7049970,rocktown-trail,2.4,158.0,230.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,KS
+7044481,aunty-entity,0.0,30.0,0.0,Leashed,['-none-'],"[5.0, 1]",,KS
+7038354,river-bottom,1.9,81.0,98.0,Leashed,['River/Creek'],"[5.0, 1]",Easy/Intermediate,KS
+7044483,beyond-thunderdome,0.3,2.0,123.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,KS
+7053074,lower-loop-orange,2.0,195.0,194.0,Leashed,"['Fall Colors', 'Wildlife']","[5.0, 1]",Easy,KS
+7038356,lyles-loop,2.7,202.0,212.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,KS
+7044480,master-blaster,0.2,0.0,67.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,KS
+7048516,maccochaque-extension,0.2,11.0,32.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,KS
+7002390,southwind-rail-trail,7.1,109.0,88.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,KS
+7019109,mountain-goats,0.5,25.0,25.0,Unknown,"['Lake', 'Views']","[5.0, 1]",Intermediate,KS
+7019107,mt-lehigh,1.1,119.0,115.0,Unknown,['Views'],"[5.0, 1]",Easy/Intermediate,KS
+7019106,creekside,1.3,68.0,71.0,Unknown,['Views'],"[5.0, 1]",Easy/Intermediate,KS
+7042404,elk-river-trail,14.2,629.0,594.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[4.6, 7]",Intermediate,KS
+7004409,red-trail,4.8,335.0,419.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.4, 7]",Easy/Intermediate,KS
+7032459,west-flint-hills-nature-trail,75.3,651.0,994.0,Leashed,['-none-'],"[4.5, 2]",Easy/Intermediate,KS
+7006411,rock-bridge-trail-207,1.3,242.0,206.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 13]",Easy/Intermediate,KY
+7006440,hansons-point-spur,0.8,46.0,115.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 10]",Intermediate,KY
+7006248,auxier-ridge-trail-204,2.0,200.0,352.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 11]",Easy/Intermediate,KY
+7006293,double-arch-trail-201,0.9,170.0,288.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 12]",Intermediate,KY
+7043434,mantle-rock-loop-trail,2.3,230.0,234.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers']","[5.0, 3]",Easy/Intermediate,KY
+7013456,echo-river-springs-trail,1.1,83.0,128.0,Leashed,['-none-'],"[5.0, 3]",Easy/Intermediate,KY
+7006237,buck-trail-226,1.5,362.0,329.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,KY
+7040689,sheltowee-trace-nrt-section-27,9.1,632.0,561.0,Unknown,['Waterfall'],"[5.0, 2]",,KY
+7006247,courthouse-rock-trail-202,2.0,407.0,315.0,Off-leash,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,KY
+7016645,rockcastle-narrows-east-trail-401,5.1,806.0,738.0,Unknown,"['Cave', 'River/Creek', 'Waterfall']","[5.0, 2]",Intermediate/Difficult,KY
+7034896,limestone-gorge-trail,1.6,179.0,180.0,Leashed,"['Fall Colors', 'River/Creek', 'Wildlife']","[5.0, 2]",Easy/Intermediate,KY
+7035176,sheltowee-trace-nrt-section-28,5.8,614.0,366.0,Unknown,['-none-'],"[5.0, 2]",Intermediate,KY
+7011607,sheltowee-trace-nrt-section-31,3.3,105.0,583.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 2]",Easy/Intermediate,KY
+7018596,siltstone-trail,6.6,918.0,921.0,Leashed,"['Birding', 'Fall Colors', 'Wildlife']","[4.8, 5]",Intermediate/Difficult,KY
+7006123,sand-gap-trail,6.0,621.0,989.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,KY
+7044285,marble-yard-furnace-road,7.3,370.0,409.0,Off-leash,"['Fall Colors', 'Views']","[5.0, 1]",Intermediate,KY
+7033903,central-hardwoods-scenic-trail-fenton-to-english-hill,2.1,362.0,124.0,Leashed,"['Fall Colors', 'Wildflowers']","[5.0, 1]",Easy/Intermediate,KY
+7040680,sheltowee-trace-nrt-section-26-south,2.7,165.0,427.0,Unknown,['Views'],"[5.0, 1]",Intermediate/Difficult,KY
+7034954,central-hardwoods-scenic-trail-golden-pond-to-meredith,2.3,232.0,221.0,Leashed,"['Fall Colors', 'Wildlife']","[5.0, 1]",Easy/Intermediate,KY
+7030954,valley-of-the-giants-trail,0.7,5.0,2.0,Leashed,['-none-'],"[5.0, 1]",Easy,KY
+7028452,palmetto-trail,0.9,3.0,0.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[5.0, 2]",Easy,LA
+7035137,lincoln-parish-park,10.2,637.0,641.0,Leashed,['Lake'],"[5.0, 1]",Easy/Intermediate,LA
+7022037,lower-gorge-trail,0.4,42.0,34.0,Unknown,"['River/Creek', 'Views', 'Wildlife']","[5.0, 1]",Easy,LA
+7024504,bayou-coquille-trail,0.5,0.0,3.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.5, 4]",Easy,LA
+7022033,gorge-run-trail,5.1,200.0,199.0,Unknown,"['Birding', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[4.5, 4]",Intermediate,LA
+7027442,backbone-trail,7.4,289.0,315.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.2, 6]",Easy/Intermediate,LA
+7024505,marsh-overlook-trail,0.5,1.0,1.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.3, 3]",Easy,LA
+7023413,kincaid-loop-trail,9.1,416.0,411.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[4.0, 3]",Easy,LA
+7035232,lakeshore-trail,5.9,210.0,231.0,Leashed,['Lake'],"[4.0, 2]",Easy/Intermediate,LA
+7023416,lamotte-creek-trail,2.5,94.0,112.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[4.0, 2]",Easy,LA
+7027446,longleaf-vista-interpretive-trail,1.3,122.0,133.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,LA
+7021856,fountainbleau-hiking-trail-loop,2.3,17.0,11.0,Unknown,"['Birding', 'Wildlife']","[4.0, 1]",Easy,LA
+7037732,bonnet-carre-spillway-trail,4.9,42.0,42.0,Unknown,"['Lake', 'River/Creek', 'Swimming', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,LA
+7028447,old-barataria-trail,1.2,2.0,3.0,No Dogs,"['Birding', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,LA
+7021848,bayou-cane-hiking-trail,0.5,3.0,12.0,Leashed,"['Birding', 'Wildlife']","[4.0, 1]",Easy,LA
+7038595,ridge-trail-boardwalk,0.5,1.0,2.0,Leashed,"['Birding', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,LA
+7035570,bistineau-trail,10.0,305.0,307.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,LA
+7028449,ring-levee-trail,0.5,0.0,2.0,No Dogs,"['Birding', 'Wildlife']","[4.0, 1]",Easy,LA
+7023415,wild-azalea-spur-trail,1.0,76.0,55.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[4.0, 1]",Easy,LA
+7054051,riverwalk-trail,1.6,26.0,15.0,Leashed,"['Birding', 'River/Creek', 'Wildlife']","[4.0, 1]",Easy/Intermediate,LA
+7007494,beehive-trail,0.6,384.0,147.0,No Dogs,"['Fall Colors', 'Views']","[4.9, 61]",Difficult,ME
+7007423,cadillac-south-ridge-trail,4.0,1473.0,142.0,Leashed,['Views'],"[4.7, 22]",Intermediate/Difficult,ME
+7007390,precipice-trail,0.8,951.0,28.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.9, 16]",Difficult,ME
+7007383,cadillac-north-ridge-trail,2.1,1086.0,0.0,Leashed,"['Fall Colors', 'Views']","[4.7, 18]",Intermediate/Difficult,ME
+7007497,bubbles-trail,2.3,824.0,818.0,Leashed,"['Fall Colors', 'Lake', 'Views']","[4.8, 17]",Intermediate/Difficult,ME
+7007514,ocean-path,2.1,165.0,165.0,Leashed,['Views'],"[4.3, 26]",Easy,ME
+7020801,hunt-trail,4.9,4149.0,16.0,Unknown,"['River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.9, 12]",Difficult,ME
+7007066,scenic-trail-cutoff,0.3,0.0,311.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 5]",Intermediate/Difficult,ME
+7007386,gorge-path,2.0,1275.0,3.0,Leashed,"['Cave', 'River/Creek', 'Spring', 'Views']","[4.6, 12]",Intermediate/Difficult,ME
+7003046,saddle-trail,2.1,2264.0,0.0,Unknown,['-none-'],"[5.0, 3]",Difficult,ME
+7007492,acadia-mountain-trail,1.5,517.0,620.0,Leashed,['Views'],"[4.8, 6]",Intermediate/Difficult,ME
+7007429,perpendicular-trail,0.9,855.0,1.0,No Dogs,"['Birding', 'Fall Colors', 'Views']","[5.0, 3]",Difficult,ME
+7007373,penobscot-mountain-trail,2.3,1123.0,110.0,Leashed,['Views'],"[4.8, 6]",Intermediate/Difficult,ME
+7007407,pemetic-south-ridge-trail,1.1,780.0,18.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers']","[4.8, 6]",Intermediate/Difficult,ME
+7007426,long-pond-trail,3.1,498.0,69.0,Leashed,"['Lake', 'Swimming', 'Views']","[5.0, 2]",Intermediate,ME
+7041172,bald-mountain-trail,1.1,1291.0,2.0,Unknown,"['Fall Colors', 'Views']","[5.0, 2]",Intermediate,ME
+7004708,cathedral-trail,1.1,2150.0,0.0,No Dogs,"['Lake', 'Views']","[5.0, 2]",,ME
+7004716,hamlin-ridge-trail,1.3,1639.0,108.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Difficult,ME
+7007499,canada-cliffs-trail,0.8,105.0,190.0,Unknown,['-none-'],"[5.0, 2]",Intermediate,ME
+7035618,rim-trail,2.9,449.0,209.0,Leashed,"['Cave', 'Fall Colors', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Waterfall', 'Wildlife']","[5.0, 2]",Difficult,ME
+7005567,billy-goat-trail-section-a,1.6,31.0,52.0,No Dogs,"['River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 20]",Intermediate/Difficult,MD
+7007526,overlook-cliff-trail,1.5,692.0,335.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[4.4, 21]",Intermediate/Difficult,WV
+7005672,patuxent-branch-trail,4.4,89.0,126.0,Unknown,"['Lake', 'River/Creek']","[5.0, 3]",Easy/Intermediate,MD
+7005200,cross-island-trail,5.3,46.0,57.0,Unknown,"['River/Creek', 'Views']","[5.0, 3]",Easy,MD
+7046359,black-hill-trail,4.8,260.0,152.0,Leashed,"['Lake', 'Views']","[5.0, 2]",Easy/Intermediate,MD
+7005152,carl-henn-millennium-trail,11.1,337.0,335.0,Unknown,['-none-'],"[5.0, 1]",Easy,MD
+7005193,northeast-branch-trail,3.4,49.0,17.0,Unknown,"['Lake', 'River/Creek']","[5.0, 2]",Easy,MD
+7025282,red-trail-monadnock-trail,0.2,0.0,156.0,Unknown,['-none-'],"[5.0, 2]",Easy/Intermediate,MD
+7046314,western-piedmont-trail,2.3,154.0,129.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MD
+7046299,bennett-ridge-trail,1.5,20.0,231.0,Leashed,"['Birding', 'Fall Colors', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MD
+7041018,little-gunpowder-trail-harford-rd-to-bottom-rd,2.7,77.0,42.0,Leashed,['-none-'],"[5.0, 1]",Easy,MD
+7039488,olmsted-island-bridges,0.3,9.0,16.0,No Dogs,"['River/Creek', 'Views', 'Waterfall']","[5.0, 1]",Easy,MD
+7028032,paint-branch-trail,4.1,19.0,96.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MD
+7047670,garretts-pass,2.4,83.0,337.0,Unknown,"['Fall Colors', 'Views']","[5.0, 1]",Intermediate,MD
+7043042,algonquin-cross-country-trail,13.5,90.0,128.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MD
+7005195,rachel-carson-greenway-trail,12.0,51.0,294.0,Leashed,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,MD
+7006880,little-paint-branch-trail,1.7,142.0,79.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MD
+7017887,north-susquehanna-ridge-trail,1.4,228.0,249.0,Leashed,"['River/Creek', 'Views']","[5.0, 1]",Difficult,MD
+7023746,milford-mill-trail,1.1,57.0,60.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MD
+7004828,great-seneca-trail,1.2,81.0,93.0,Unknown,"['Fall Colors', 'Lake', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MD
+7020198,skyline-trail,7.5,846.0,863.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[4.3, 22]",Intermediate,MA
+7005869,skyline-trail-south,1.1,521.0,138.0,Unknown,"['Fall Colors', 'Views']","[5.0, 2]",Difficult,MA
+7010174,at-amc-berkshire-chapter-ma,89.5,15643.0,14837.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,MA
+7023573,fern-trail,0.3,11.0,2.0,No Dogs,"['River/Creek', 'Views', 'Wildlife']","[5.0, 2]",Easy,MA
+7049727,lake-waban-trail,2.6,76.0,81.0,Off-leash,['Lake'],"[5.0, 1]",Easy/Intermediate,MA
+7045376,harvey-mountain-trail,2.3,423.0,599.0,Off-leash,['Views'],"[5.0, 1]",Difficult,NY
+7039147,morses-pond-trail,1.1,41.0,37.0,Off-leash,['Fall Colors'],"[5.0, 1]",Easy/Intermediate,MA
+7051499,storrow-pond-trail,2.2,113.0,109.0,No Dogs,"['Fall Colors', 'Lake', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MA
+7036620,awesome-sauce-trail,0.4,26.0,63.0,Leashed,['-none-'],"[5.0, 1]",,MA
+7050340,red-trail,2.1,89.0,69.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,MA
+7041071,trilogy-trail,1.8,185.0,277.0,Unknown,['-none-'],"[5.0, 1]",Difficult,MA
+7051306,peabody-loop,2.2,141.0,153.0,Leashed,['Fall Colors'],"[5.0, 1]",Easy/Intermediate,MA
+7045440,wild-side,1.2,157.0,118.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,MA
+7041638,moraine-trail-northern-section,2.7,208.0,244.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,MA
+7051500,page-sadie-trail,1.7,79.0,87.0,No Dogs,"['Fall Colors', 'Lake', 'Views', 'Wildflowers']","[5.0, 1]",Easy/Intermediate,MA
+7041524,main-loop-blue-trail,0.7,29.0,12.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MA
+7045094,atlantic-white-cedar-trail,1.1,80.0,86.0,No Dogs,['-none-'],"[5.0, 1]",Easy,MA
+7045352,pinnacle-trail,1.5,317.0,129.0,Off-leash,['Views'],"[5.0, 1]",Intermediate,NY
+7050346,blue-trail,2.0,78.0,80.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,MA
+7020574,mansitee-river-trail,12.0,907.0,806.0,Leashed,"['River/Creek', 'Views']","[4.5, 33]",Intermediate,MI
+7004153,escarpment-trail,3.8,477.0,775.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 9]",Intermediate,MI
+7004160,greenstone-ridge-trail,40.2,2827.0,2809.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate/Difficult,MI
+7004149,north-mirror-lake-trail,4.3,575.0,355.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildlife']","[5.0, 4]",Intermediate/Difficult,MI
+7027460,nct-mi-segment-2-central-up,182.3,13044.0,14148.0,Unknown,['-none-'],"[5.0, 3]",Easy/Intermediate,MI
+7023163,hickory-ridge-hike-ski-trail,5.1,163.0,162.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 12]",Easy/Intermediate,MI
+7014151,bare-bluff-trail,2.9,316.0,281.0,Off-leash,"['Fall Colors', 'Lake', 'Views', 'Wildflowers']","[5.0, 2]",Intermediate/Difficult,MI
+7040881,ken-o-sha-trail,2.7,76.0,77.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,MI
+7036912,jailhouse-trail,4.1,277.0,276.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,MI
+7034335,beech-tree-loop,0.9,37.0,32.0,Leashed,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MI
+7044852,swan-creek-trail-north-and-south,9.8,901.0,889.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MI
+7045402,wakazoo-trail-aka-northwest-trail,11.4,573.0,591.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Easy/Intermediate,MI
+7034454,stone-bridge-nature-trail,0.6,11.0,32.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MI
+7011104,macomb-orchard-trail,24.6,191.0,188.0,Leashed,"['Birding', 'Fall Colors']","[5.0, 1]",Easy,MI
+7036754,advanced-loop,4.2,223.0,227.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,MI
+7005233,mount-ojibway-trail,1.5,570.0,77.0,No Dogs,"['Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 5]",Intermediate/Difficult,MI
+7052392,rouge-park-mountain-bike-and-hiking-hybrid-trail,2.1,132.0,134.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,MI
+7019373,west-huginnin-cove-trail,2.9,175.0,170.0,No Dogs,"['Lake', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,MI
+7039361,catamount-trail,3.6,315.0,316.0,Unknown,['Fall Colors'],"[5.0, 1]",Difficult,MI
+7014803,warren-woods-trail,0.7,18.0,19.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy,MI
+7004308,superior-hiking-trail-sht,299.8,31233.0,30542.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildlife']","[4.9, 29]",Intermediate/Difficult,MN
+7006365,deer-valley-loop,2.6,379.0,375.0,Leashed,"['Birding', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,MN
+7027974,shovel-point-trail,0.7,107.0,164.0,Leashed,"['Fall Colors', 'Lake', 'Views', 'Wildlife']","[4.8, 6]",Easy/Intermediate,MN
+7037613,kings-bluff-trail,1.3,59.0,137.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 2]",Easy,MN
+7027978,corundum-mine-trail,2.4,175.0,182.0,Leashed,"['Birding', 'Lake', 'Views']","[5.0, 2]",Intermediate,MN
+7017765,lake-harriet,2.9,59.0,60.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views']","[5.0, 2]",Easy,MN
+7036502,upper-cathedral-trail,3.8,156.0,293.0,Leashed,['-none-'],"[5.0, 2]",Easy,MN
+7017078,locator-lake-trail,2.0,148.0,121.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MN
+7027965,caribou-river-spur,0.7,259.0,33.0,Unknown,"['River/Creek', 'Views', 'Waterfall']","[5.0, 2]",Easy/Intermediate,MN
+7036965,hole-in-rock-trail,1.1,325.0,255.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,MN
+7036966,beaver-creek-valley-trail,2.0,39.0,98.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MN
+7037023,chase-point-trail,0.9,91.0,72.0,Leashed,"['Birding', 'Lake', 'Views', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MN
+7036964,west-rim-trail,0.9,173.0,211.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,MN
+7035989,lester-river-trail-duluth-traverse,3.7,365.0,63.0,Leashed,"['River/Creek', 'Swimming', 'Views']","[5.0, 1]",Easy/Intermediate,MN
+7020216,waboose-lake-loop-trail,3.9,273.0,274.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MN
+7032557,baptism-river-mouth-trail,0.1,0.0,27.0,Unknown,"['Lake', 'River/Creek', 'Swimming', 'Views']","[5.0, 1]",Easy/Intermediate,MN
+7006359,lower-afton-alps,1.1,235.0,99.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,MN
+7037677,amity-east-trail,2.3,384.0,111.0,Leashed,"['River/Creek', 'Views', 'Waterfall']","[5.0, 1]",Intermediate,MN
+7037604,coyote-point-trail,1.0,355.0,48.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 1]",Intermediate/Difficult,MN
+7037098,benson-lake-trail,0.9,58.0,64.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Easy,MN
+7036868,charlottes-web-trail-aka-cw-trail,3.7,310.0,228.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,MS
+7037984,north-trail,3.3,367.0,275.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,MS
+7043404,richardson-creek-trail,9.1,942.0,938.0,Off-leash,['-none-'],"[5.0, 1]",Easy/Intermediate,MS
+7043401,tallys-creek-trail,10.8,931.0,931.0,Off-leash,['River/Creek'],"[5.0, 1]",Easy/Intermediate,MS
+7035701,sheep-ranch-trail,4.6,197.0,334.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,MS
+7044339,mills-branch-trail,4.7,601.0,562.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,MS
+7026153,fenceline-trail,2.0,57.0,63.0,Unknown,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MS
+7028917,gravel-road,4.5,597.0,751.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,MS
+7029028,pine-belt,0.8,108.0,42.0,Leashed,['Views'],"[5.0, 1]",Easy/Intermediate,MS
+7037995,headwaters-trail,2.1,171.0,186.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,MS
+7028913,rg-trail,0.5,46.0,40.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,MS
+7028907,hamburger-hill,0.2,62.0,0.0,Leashed,['-none-'],"[5.0, 1]",Difficult,MS
+7028916,rusty-barrel,0.3,3.0,44.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,MS
+7028921,elevator,0.3,13.0,98.0,Leashed,['-none-'],"[5.0, 1]",Difficult,MS
+7028918,mall-overlook-road,0.5,30.0,38.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,MS
+7028904,family-loop,0.3,4.0,35.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,MS
+7028911,tree-hugger,0.5,3.0,54.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,MS
+7028932,family-loop-2,0.3,118.0,0.0,Leashed,['-none-'],"[5.0, 1]",Easy,MS
+7028914,carpet-climb,0.2,33.0,0.0,Leashed,['Views'],"[5.0, 1]",Difficult,MS
+7028912,rock-n-roll,0.3,7.0,20.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,MS
+7012266,chubb-trail,6.7,714.0,667.0,Unknown,"['Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 6]",Intermediate/Difficult,MO
+7012275,declue-trail,8.4,907.0,910.0,Unknown,['Fall Colors'],"[5.0, 4]",Intermediate/Difficult,MO
+7012252,al-foster-trail,5.1,273.0,228.0,Unknown,"['Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 3]",Easy,MO
+7039315,grotpeter-trail,2.9,295.0,297.0,Unknown,['-none-'],"[5.0, 3]",Intermediate,MO
+7012313,mississippi-river-greenway-jefferson-barracks-section,1.7,6.0,82.0,Unknown,"['River/Creek', 'Wildlife']","[5.0, 3]",Easy,MO
+7025040,turkey-ridge-trail,1.9,321.0,326.0,Leashed,['Wildlife'],"[5.0, 2]",Intermediate,MO
+7040688,ozark-trail-trace-creek-section,26.8,2909.0,2819.0,Leashed,"['Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 2]",Intermediate,MO
+7054161,mkt-trail,9.3,72.0,194.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy,MO
+7054146,metro-corridor-olive-to-shaw-park,2.1,13.0,47.0,Leashed,['-none-'],"[5.0, 2]",Easy,MO
+7012331,out-n-back,1.0,68.0,79.0,Unknown,"['Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,MO
+7054220,ward-branch-greenway,1.1,51.0,5.0,Leashed,"['River/Creek', 'Views', 'Wildlife']","[5.0, 2]",Easy,MO
+7048217,river-trail,1.0,29.0,8.0,Leashed,['-none-'],"[5.0, 2]",Easy,MO
+7025039,lime-kiln-loop-trail,2.8,376.0,370.0,Leashed,['-none-'],"[4.6, 9]",Intermediate,MO
+7040971,ozark-trail-courtois-section,48.8,5003.0,4819.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate,MO
+7030591,osage-bluff-scenic-trail,1.8,197.0,193.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MO
+7040681,ozark-trail-current-river-section,30.9,3196.0,3225.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate,MO
+7040972,ozark-trail-courtois-section-berryman-trail-loop-east,14.8,1577.0,1475.0,Leashed,"['Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate,MO
+7012339,rock-hollow-trail,2.3,270.0,0.0,Unknown,"['Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,MO
+7038032,sunbridge-hills-conservation-area,3.1,299.0,302.0,Leashed,"['River/Creek', 'Views']","[5.0, 1]",Easy,MO
+7007864,hidden-lake,2.6,544.0,821.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.6, 22]",Intermediate,MT
+7007695,grinnell-glacier-overlook,0.9,970.0,41.0,No Dogs,"['Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 13]",Difficult,MT
+7007913,swiftcurrent-pass,7.7,2308.0,448.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.9, 12]",Intermediate/Difficult,MT
+7007698,grinnell-glacier-trail,3.5,1608.0,39.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 7]",Intermediate/Difficult,MT
+7004453,east-rosebud-trail,16.3,3884.0,226.0,Leashed,"['Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 5]",Intermediate,MT
+7004105,hyalite-creek-trail,7.2,3343.0,23.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 5]",Intermediate,MT
+7004189,middle-cottonwood,1.2,476.0,0.0,Unknown,"['Birding', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,MT
+7008945,sky-rim-trail,10.7,3386.0,1680.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Difficult,WY
+7011821,bluebird-trail-83,2.0,1071.0,0.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate/Difficult,MT
+7019568,bass-creek-trail,10.2,3280.0,213.0,Leashed,"['River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,MT
+7007898,red-gap-pass,15.1,3522.0,2415.0,No Dogs,"['Birding', 'Cave', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,MT
+7007910,stoney-indian-pass,12.7,2420.0,2680.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,MT
+7052121,pine-creek-trail-47,5.3,3453.0,72.0,Off-leash,"['Birding', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers']","[5.0, 3]",Intermediate/Difficult,MT
+7004186,corbly-gulch,5.7,3476.0,0.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,MT
+7004117,cottonwood-lake,4.1,2077.0,8.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MT
+7004174,lava-lake-trail,2.9,1636.0,45.0,Leashed,"['Birding', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 9]",Intermediate,MT
+7009041,yellowstone-river-trail,15.8,2021.0,1752.0,No Dogs,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,WY
+7007684,dawson-pass,10.1,3209.0,746.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 6]",Intermediate/Difficult,MT
+7004127,boulder-pass-trail,30.2,4123.0,4322.0,No Dogs,"['Lake', 'River/Creek', 'Swimming', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,MT
+7007753,sperry-glacier,3.3,1667.0,103.0,No Dogs,"['Birding', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 2]",Difficult,MT
+7032681,chief-standing-bear-trail,23.8,90.0,158.0,Leashed,['River/Creek'],"[5.0, 1]",Easy,NE
+7051817,sandy-wash,2.3,25.0,27.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,NE
+7051816,jaxons-loop,1.2,26.0,26.0,Leashed,['-none-'],"[5.0, 1]",Difficult,NE
+7053927,wicked-ridge,0.6,0.0,165.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,NE
+7051818,sandy-flow,1.0,22.0,25.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,NE
+7053574,geology-trail,0.2,10.0,6.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NE
+7056913,jim-macallister-nature-trail,1.5,211.0,215.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NE
+7027767,wehrspann-lake-trail,5.9,176.0,176.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 3]",Easy,NE
+7029613,lake-manawa-state-park-trail,6.9,56.0,55.0,Leashed,['River/Creek'],"[4.0, 1]",Easy,IA
+7053478,prairie-dog-town-trail,2.4,336.0,63.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7053477,diffendal-loop,2.0,355.0,316.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate/Difficult,NE
+7053474,baxa-trail,0.8,170.0,9.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7053476,boat-shed-trail,0.3,87.0,0.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy/Intermediate,NE
+7053570,swainson-trail,2.6,252.0,189.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7053578,two-pipe-trail,1.0,33.0,111.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7053577,ranch-house-trail,1.8,295.0,29.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate/Difficult,NE
+7053563,lentzen-gazebo-trail,0.8,161.0,0.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7054244,cedar-ridge,0.4,3.0,172.0,Off-leash,['-none-'],"[4.0, 1]",Intermediate/Difficult,NE
+7054245,betsys-bugaboo,0.3,155.0,2.0,Off-leash,['-none-'],"[4.0, 1]",Intermediate,NE
+7056964,platte-river-state-park,11.3,1400.0,1449.0,Leashed,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildlife']","[4.0, 1]",Intermediate,NE
+7022321,kraft-mountain-loop,3.3,587.0,586.0,Off-leash,"['Birding', 'Cave', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 27]",Intermediate/Difficult,NV
+7010987,gold-strike-canyon,2.3,57.0,892.0,No Dogs,"['Cave', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 17]",Difficult,NV
+7029372,turtlehead-mountain-trail,2.2,1898.0,155.0,Leashed,['Views'],"[4.7, 21]",Intermediate/Difficult,NV
+7023356,ice-box-canyon,1.2,796.0,16.0,Leashed,"['River/Creek', 'Views', 'Waterfall']","[4.4, 24]",Intermediate/Difficult,NV
+7036765,mary-jane-falls-trail,1.6,1239.0,132.0,Off-leash,"['Cave', 'Views', 'Waterfall', 'Wildflowers']","[4.5, 13]",Intermediate,NV
+7056891,seven-wonders-route,1.2,28.0,199.0,Leashed,"['Cave', 'Views', 'Wildflowers']","[5.0, 4]",Intermediate,NV
+7020931,cathedral-rock-trail,1.3,875.0,126.0,Leashed,['Fall Colors'],"[4.4, 17]",Intermediate,NV
+7009410,marlette-flume-trail,4.4,131.0,227.0,Unknown,"['Lake', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NV
+7020478,trt-tahoe-meadows-to-spooner-summit,23.6,2421.0,4165.0,Unknown,"['Views', 'Wildflowers']","[5.0, 2]",Intermediate,NV
+7002389,ash-canyon-to-kings-canyon-trail,7.1,1209.0,707.0,Off-leash,"['River/Creek', 'Waterfall', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,NV
+7033909,giants-mile,1.0,1552.0,2.0,Unknown,['Views'],"[5.0, 2]",,NV
+7022571,whites-creek-trail,1.8,606.0,0.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,NV
+7009198,south-fork-baker-creek-trail,3.8,1833.0,209.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,NV
+7046375,ballardini-ranch-timberline-connector,2.1,492.0,47.0,Off-leash,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,NV
+7026886,fire-wave-trail,0.7,33.0,197.0,Unknown,"['Birding', 'Wildflowers', 'Wildlife']","[4.6, 9]",Easy/Intermediate,NV
+7045520,vanessas-hill,2.5,469.0,303.0,Leashed,['Views'],"[5.0, 1]",Intermediate,NV
+7035457,goat-roper,2.3,624.0,2.0,Unknown,['Views'],"[5.0, 1]",Intermediate,NV
+7009189,lehman-creek-trail,3.5,2054.0,5.0,No Dogs,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,NV
+7039150,the-hurl-trail,3.5,616.0,632.0,Unknown,['-none-'],"[5.0, 1]",Difficult,NV
+7039693,inner-caldera-trail,2.4,321.0,321.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,NV
+7006930,tuckerman-ravine,3.8,4079.0,0.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 18]",Difficult,NH
+7006915,mt-major-trail,1.5,1121.0,8.0,Unknown,"['River/Creek', 'Views']","[4.9, 11]",Intermediate,NH
+7018147,ammonoosuc-ravine-trail,2.8,2517.0,13.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall']","[4.6, 14]",Intermediate/Difficult,NH
+7018339,moat-mountain-trail,9.2,3101.0,2955.0,Unknown,['-none-'],"[5.0, 4]",Difficult,NH
+7027643,pumpelly-trail,4.1,1771.0,125.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,NH
+7018153,baldface-circle-trail,8.6,3310.0,3093.0,Off-leash,"['Birding', 'River/Creek', 'Views', 'Wildflowers']","[4.8, 6]",Difficult,NH
+7018302,king-ravine-trail,2.4,2589.0,148.0,Unknown,"['Cave', 'River/Creek', 'Views', 'Waterfall']","[5.0, 2]",,NH
+7018473,webster-cliff-trail,6.0,3426.0,613.0,Unknown,['-none-'],"[5.0, 3]",Difficult,NH
+7018521,basin-cascades,1.2,506.0,54.0,Unknown,['-none-'],"[5.0, 3]",Intermediate/Difficult,NH
+7010624,champney-falls-trail,3.6,1964.0,121.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,NH
+7050329,old-piper-trail,0.5,214.0,0.0,Off-leash,"['Birding', 'Fall Colors', 'Views']","[5.0, 3]",Intermediate,NH
+7041327,elwell-trail,9.3,1370.0,2785.0,Unknown,"['Cave', 'Fall Colors', 'Lake', 'Swimming', 'Views']","[5.0, 2]",Intermediate/Difficult,NH
+7030835,foss-mountain-trail,0.5,225.0,2.0,Off-leash,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Easy,NH
+7050330,piper-mountain-trail,1.2,7.0,933.0,Unknown,['-none-'],"[5.0, 2]",Intermediate,NH
+7044074,veterans-trail,0.8,292.0,385.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 2]",Intermediate,NH
+7018412,sabbaday-brook-trail,4.8,2536.0,16.0,Unknown,['-none-'],"[5.0, 2]",Intermediate,NH
+7030617,bartlett-mountain,1.6,1687.0,0.0,Off-leash,"['Fall Colors', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,NH
+7018277,gulfside,5.4,2300.0,969.0,Unknown,['-none-'],"[5.0, 2]",Difficult,NH
+7043946,around-the-lake-trail,1.9,200.0,203.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'Swimming', 'Views', 'Wildlife']","[5.0, 2]",Easy/Intermediate,NH
+7018344,mount-kearsarge-north-trail,2.9,2520.0,1.0,Leashed,"['River/Creek', 'Views']","[5.0, 1]",Difficult,NH
+7027452,rahway-trail,2.5,219.0,121.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,NJ
+7037307,shore-trail-white-the-giant-stairs,2.0,250.0,265.0,Off-leash,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 2]",Difficult,NY
+7042907,rocky-point-trail,2.4,265.0,274.0,Unknown,"['River/Creek', 'Views']","[5.0, 2]",Intermediate,NJ
+7042630,mt-tammany-fire-road,4.1,209.0,144.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,PA
+7028588,carris-hill,0.9,6.0,621.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildlife']","[5.0, 2]",Difficult,NJ
+7034935,oreland-trail,2.0,280.0,86.0,Unknown,['River/Creek'],"[5.0, 2]",Intermediate,NJ
+7027395,turtleback-loop,3.5,321.0,337.0,Leashed,"['Fall Colors', 'Lake', 'Wildflowers']","[4.5, 10]",Easy/Intermediate,NJ
+7050012,ccc-trail,4.0,55.0,48.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,NJ
+7051842,stoll-trail,0.6,25.0,181.0,Unknown,['River/Creek'],"[5.0, 1]",Easy/Intermediate,NJ
+7046573,yellow-blaze-trail,2.7,414.0,340.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,NJ
+7004015,beaver-pond-quaker-bridge-trail,1.7,0.0,13.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NJ
+7023635,white-oak-trail,1.4,228.0,257.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy/Intermediate,PA
+7027397,interpretive-trail,0.7,48.0,48.0,Leashed,"['Fall Colors', 'Wildflowers']","[5.0, 1]",Easy/Intermediate,NJ
+7022162,stony-brook-trail,1.7,14.0,43.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NJ
+7030841,cranberry-trail,1.1,5.0,4.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,NJ
+7042973,sitting-bear-trail,1.1,44.0,107.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Wildlife']","[5.0, 1]",Easy,NJ
+7034859,blueberry-trail,0.4,3.0,0.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NJ
+7035769,lumpy-bumpy,0.9,111.0,136.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,NJ
+7035767,ice-cream,0.9,16.0,217.0,Leashed,['-none-'],"[5.0, 1]",Difficult,NJ
+7022163,meadowpond-trail,1.4,18.0,35.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NJ
+7004892,la-luz-trail,7.7,3467.0,213.0,Leashed,"['Views', 'Wildflowers']","[4.8, 21]",Intermediate/Difficult,NM
+7004908,pino-trail,4.6,2755.0,16.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[4.7, 23]",Intermediate/Difficult,NM
+7003499,atalaya-mountain-trail-170,3.5,1776.0,5.0,Unknown,"['Birding', 'Views', 'Wildflowers']","[4.6, 20]",Intermediate,NM
+7042192,organ-needle-trail,2.1,3139.0,127.0,Leashed,"['Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 5]",,NM
+7023475,slot-canyon-trail,1.1,562.0,211.0,No Dogs,['Views'],"[4.9, 7]",Intermediate,NM
+7003137,skyline-trail-251,73.8,10142.0,13761.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 5]",Difficult,NM
+7035237,lost-lake-trail-91,4.8,1494.0,221.0,Leashed,"['Lake', 'Views']","[5.0, 2]",Intermediate/Difficult,NM
+7036488,san-francisco-hot-springs,1.5,6.0,473.0,Unknown,"['Fall Colors', 'Hot Spring', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,NM
+7034833,three-rivers-trail-44,6.1,3403.0,0.0,Unknown,"['River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,NM
+7003143,aspen-vista,5.9,2020.0,4.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 3]",Intermediate,NM
+7028772,paseo-del-bosque-trail,19.4,141.0,122.0,Leashed,['-none-'],"[5.0, 2]",Easy,NM
+7036541,dragons-back-trail,3.4,194.0,546.0,Unknown,['Views'],"[5.0, 2]",Intermediate,NM
+7006966,pine-tree-trail,4.2,1037.0,933.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[4.4, 12]",Intermediate,NM
+7005538,picacho-peak-atalaya-mountain-connector,1.1,731.0,90.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,NM
+7003398,south-boundary-trail,22.2,2311.0,4237.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,NM
+7043296,la-vista-verde-trail,1.2,80.0,95.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,NM
+7003121,santa-fe-baldy-to-redondo-peak-ridgeline,3.6,1657.0,858.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,NM
+7003149,soda-springs-trail,4.3,1124.0,334.0,Unknown,"['Birding', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,NM
+7023382,trampas-lakes-trail-31,5.9,2526.0,77.0,Off-leash,"['Lake', 'Views', 'Wildflowers', 'Wildlife']","[4.4, 9]",Intermediate,NM
+7004919,elena-gallegos-trail-341,1.3,206.0,184.0,Leashed,['Views'],"[5.0, 1]",Intermediate,NM
+7028632,labyrinth-and-lemon-squeeze,0.5,276.0,71.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers']","[5.0, 10]",Intermediate/Difficult,NY
+7004161,breakneck-ridge-trail,4.1,1735.0,385.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[4.6, 18]",Difficult,NY
+7030895,burroughs-range-trail-wittenburg-cornell-slide-trail,8.6,3618.0,2146.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 8]",Difficult,NY
+7003967,gertrudes-nose-trail,2.9,329.0,489.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 5]",Intermediate/Difficult,NY
+7017703,nassau-suffolk-trail,19.5,945.0,976.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Wildflowers', 'Wildlife']","[4.6, 12]",Intermediate,NY
+7040970,ampersand-mountain-trail,2.7,1793.0,36.0,Leashed,"['Cave', 'Fall Colors', 'River/Creek', 'Views']","[5.0, 3]",Intermediate/Difficult,NY
+7033120,giant-ledge-panther-fox-hollow-trail,8.3,2760.0,1458.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,NY
+7002862,algonquin-trail,4.6,2792.0,2243.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall']","[4.7, 9]",Difficult,NY
+7034701,letchworth-state-park-flt-branch,21.3,1856.0,1636.0,Unknown,"['River/Creek', 'Views', 'Waterfall']","[5.0, 3]",Intermediate/Difficult,NY
+7037904,black-trail,3.2,597.0,494.0,Unknown,['-none-'],"[5.0, 3]",Intermediate/Difficult,NY
+7004358,millbrook-ridge-trail,2.9,737.0,169.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,NY
+7024945,fox-hollow-main-trail,0.5,70.0,54.0,Leashed,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 3]",Easy/Intermediate,NY
+7043968,kane-mountain-east-trail,0.8,530.0,0.0,Leashed,"['Fall Colors', 'Views']","[5.0, 3]",Intermediate,NY
+7035359,mount-colden-trail,1.4,1871.0,0.0,Leashed,"['Fall Colors', 'Lake', 'Views', 'Wildflowers']","[5.0, 1]",,NY
+7035539,overlook-trail,5.3,1079.0,188.0,Unknown,['Views'],"[5.0, 2]",Intermediate/Difficult,NY
+7024950,upper-francis-pond-preserve,0.4,1.0,54.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildlife']","[5.0, 2]",Easy/Intermediate,NY
+7043929,kane-mountain-north-trail,1.4,589.0,55.0,Leashed,"['Fall Colors', 'Lake', 'Views']","[5.0, 2]",Intermediate,NY
+7004615,bonticou-ascent-path,0.4,63.0,177.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Difficult,NY
+7037905,brown-trail,2.8,364.0,362.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,NY
+7013162,boone-fork-trail,5.4,583.0,581.0,Leashed,"['River/Creek', 'Swimming', 'Waterfall']","[4.7, 36]",Intermediate,NC
+7008053,clingmans-dome-trail,0.8,457.0,1.0,No Dogs,['Views'],"[3.9, 38]",Intermediate,NC
+7011859,shortoff-mountain-trail,7.7,3035.0,914.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 9]",Intermediate/Difficult,NC
+7019720,profile-trail,2.8,1851.0,82.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 17]",Difficult,NC
+7024181,woody-ridge-trail-177,2.4,2973.0,11.0,Leashed,"['Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 8]",,NC
+7021111,grandfather-trail,2.0,1136.0,503.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 13]",Difficult,NC
+7013383,moores-wall-loop-trail,4.1,916.0,914.0,Leashed,"['Fall Colors', 'River/Creek', 'Views']","[4.3, 19]",Intermediate/Difficult,NC
+7022740,looking-glass-rock-trail,2.7,1595.0,21.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[4.4, 19]",Intermediate/Difficult,NC
+7008093,hazel-creek-trail,15.6,3260.0,39.0,No Dogs,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildlife']","[5.0, 5]",Easy/Intermediate,NC
+7024231,hawksbill-mountain-trail,1.0,687.0,0.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 8]",Intermediate/Difficult,NC
+7029105,springhouse-loop,3.5,113.0,112.0,Leashed,"['Birding', 'River/Creek', 'Spring', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,NC
+7011860,linville-gorge-trail,14.0,3096.0,1080.0,Off-leash,"['Birding', 'Cave', 'Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 3]",Difficult,NC
+7020226,whiteside-mountain,2.0,485.0,433.0,Unknown,"['Fall Colors', 'Views']","[4.6, 11]",Intermediate,NC
+7010211,at-smoky-mountain-hiking-club-tnnc,102.3,22301.0,22017.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Commonly Backpacked']","[4.7, 9]",Intermediate/Difficult,NC
+7028048,hangover-lead-trail-56,5.4,238.0,3525.0,Off-leash,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers']","[5.0, 2]",Difficult,NC
+7024387,saddleback-trail,3.1,20.0,1034.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,NC
+7020461,shinny-trail,2.1,11.0,721.0,Leashed,"['Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,NC
+7051008,weed-patch-mountain-trail,7.8,2479.0,560.0,Unknown,"['Fall Colors', 'Views']","[5.0, 2]",Intermediate/Difficult,NC
+7037008,bennett-gap-trail,2.9,153.0,1325.0,Unknown,['Views'],"[5.0, 2]",Difficult,NC
+7011861,table-rock-summit-trail,0.7,550.0,0.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 7]",Intermediate/Difficult,NC
+7017514,boicourt-overlook-trail,0.2,1.0,16.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,ND
+7008754,ridgeline-trail,0.6,154.0,95.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,ND
+7045113,north-country-trail-sheyenne-state-forest,2.3,259.0,231.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7030624,buffalo-gap-trail,19.5,1479.0,1625.0,Off-leash,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7011131,maah-daah-hey-ii-the-deuce,47.0,4097.0,4184.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7008746,lower-talkington-trail,4.2,224.0,145.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7008735,badlands-spur,1.7,39.0,115.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7030416,cottonwood-trail,7.1,1020.0,620.0,Off-leash,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,ND
+7011057,young-hawk-interpretive-trail,1.1,147.0,146.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7011093,little-soldier-loop,1.8,184.0,68.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7017515,fort-abraham-lincoln-state-park-stairs,0.1,58.0,0.0,Leashed,"['Birding', 'Fall Colors']","[5.0, 1]",Intermediate,ND
+7029781,bloody-knifes-loop,1.1,8.0,184.0,Leashed,"['Birding', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,ND
+7003918,ps-trail,1.5,67.0,551.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Intermediate/Difficult,ND
+7011150,prairie-hiking-trail,5.0,125.0,241.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,ND
+7011201,little-sioux-loop,1.1,88.0,41.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy,ND
+7032564,gooseberry-park-trail,3.5,90.0,90.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[4.5, 2]",Easy/Intermediate,ND
+7020892,oak-leaf-loop-trail,4.1,66.0,66.0,Off-leash,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 2]",Easy/Intermediate,ND
+7008742,jones-creek-trail,3.6,234.0,36.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 2]",Easy/Intermediate,ND
+7031523,sperati-point-overlook-trail,0.1,0.0,29.0,No Dogs,"['River/Creek', 'Views', 'Wildflowers']","[4.5, 2]",Easy,ND
+7008751,painted-canyon-trail,2.1,90.0,388.0,No Dogs,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.1, 7]",Easy/Intermediate,ND
+7022797,grandma-gatewood-memorial-trail-buckeye-trail,5.6,440.0,540.0,Unknown,"['Cave', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.4, 23]",Intermediate,OH
+7016548,salt-run-trail,3.4,466.0,474.0,Leashed,"['Fall Colors', 'Wildlife']","[4.6, 19]",Intermediate,OH
+7015789,ledges-trail,1.7,120.0,121.0,Leashed,"['Fall Colors', 'Views']","[4.4, 21]",Intermediate,OH
+7016456,adam-run-trail,3.1,295.0,287.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Easy/Intermediate,OH
+7010381,ohio-view-trail,7.0,682.0,1066.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 3]",Intermediate/Difficult,OH
+7021723,sundown-trail,6.1,431.0,427.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,OH
+7021724,hollow-point-trail,3.0,277.0,305.0,Unknown,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,OH
+7012735,beaver-city,3.5,204.0,185.0,Off-leash,"['Birding', 'Fall Colors', 'Wildlife']","[5.0, 3]",Intermediate,OH
+7045422,mohican-state-park-mtb-trail,22.2,2415.0,2416.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,OH
+7024087,hoggard-trail,3.5,295.0,286.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,OH
+7012490,boord-state-nature-preserve,0.7,58.0,70.0,Unknown,"['River/Creek', 'Waterfall']","[5.0, 2]",Easy/Intermediate,OH
+7022441,alley-trail,2.2,436.0,427.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,OH
+7050726,orange-loop-trail,3.0,391.0,321.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,OH
+7026274,pink-trail,2.2,168.0,180.0,Leashed,"['Birding', 'River/Creek', 'Views']","[5.0, 2]",Intermediate,OH
+7030674,south-point-lookout-trail,1.4,210.0,147.0,Leashed,['Views'],"[5.0, 2]",Easy/Intermediate,OH
+7036360,canbys-trail,1.7,511.0,483.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,OH
+7053371,prairie-trail,1.7,20.0,20.0,Leashed,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy,OH
+7043506,pittsburgh-cincinnati-stage-coach-trail,1.4,47.0,55.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek']","[5.0, 1]",Intermediate,OH
+7050723,east-rim-phase-2,4.4,416.0,416.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,OH
+7016489,east-rim-trail,2.3,199.0,200.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,OH
+7018806,charons-garden-trail,2.4,283.0,165.0,Leashed,"['Cave', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 12]",Intermediate/Difficult,OK
+7003099,elk-mountain-trail,1.2,580.0,21.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildlife']","[4.7, 7]",Intermediate,OK
+7018061,ouachita-trail-segment-02,20.7,3375.0,3067.0,Unknown,['-none-'],"[5.0, 2]",Difficult,OK
+7042910,mount-scott-service-road,2.9,1021.0,0.0,Leashed,"['Fall Colors', 'Spring', 'Views', 'Wildlife']","[4.8, 4]",Easy/Intermediate,OK
+7042667,crab-eyes-trail,1.3,315.0,75.0,Leashed,"['River/Creek', 'Wildlife']","[5.0, 1]",Easy/Intermediate,OK
+7040770,black-trail,2.7,252.0,256.0,Off-leash,['Views'],"[5.0, 1]",Intermediate/Difficult,OK
+7040773,red-trail,1.9,115.0,90.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,OK
+7040771,orange-trail,2.4,238.0,203.0,Leashed,"['Lake', 'Views']","[5.0, 1]",Difficult,OK
+7035142,horsethief-springs-trail,6.0,327.0,1291.0,Unknown,['-none-'],"[5.0, 1]",Difficult,OK
+7040128,red-loop,0.9,33.0,46.0,Unknown,['-none-'],"[5.0, 1]",Difficult,OK
+7003367,burford-lake-trail,0.4,4.0,6.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,OK
+7030743,riverparks-east-bank-trail,7.8,69.0,85.0,Leashed,['-none-'],"[5.0, 1]",Easy,OK
+7041131,bohannon-creek-trail,2.7,1183.0,0.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,OK
+7031936,upper-mystery-pink-trail,0.5,1.0,43.0,Leashed,['River/Creek'],"[5.0, 1]",Difficult,OK
+7034082,orange-section,1.7,58.0,69.0,No Dogs,['-none-'],"[5.0, 1]",Easy/Intermediate,OK
+7047610,dire-straits,0.6,61.0,57.0,Off-leash,['-none-'],"[5.0, 1]",Difficult,OK
+7003689,switchback-trail,2.4,169.0,183.0,Unknown,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,OK
+7003370,lake-loop-trail,1.0,21.0,58.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,OK
+7034081,green-section,1.8,119.0,72.0,No Dogs,['-none-'],"[5.0, 1]",Intermediate,OK
+7034083,red-section,0.9,59.0,43.0,No Dogs,['-none-'],"[5.0, 1]",Difficult,OK
+7018577,cape-lookout-trail,2.4,199.0,652.0,Leashed,['Views'],"[4.6, 24]",Intermediate,OR
+7014140,eagle-creek-trail-440,12.9,3935.0,320.0,Leashed,"['River/Creek', 'Views', 'Waterfall', 'Wildflowers']","[4.9, 8]",Intermediate/Difficult,OR
+7022594,mirror-lake-trail-664,3.0,1507.0,42.0,Leashed,"['Fall Colors', 'Lake', 'Views']","[4.4, 17]",Intermediate,OR
+7015911,tamanawas-falls,1.2,427.0,23.0,Unknown,"['River/Creek', 'Waterfall']","[4.5, 15]",Intermediate,OR
+7012398,mt-mcloughlin-summit-trail,4.5,3897.0,6.0,Off-leash,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Difficult,OR
+7050205,mitchell-point-trail,0.9,971.0,0.0,Unknown,"['Views', 'Wildflowers']","[5.0, 4]",Intermediate/Difficult,OR
+7053484,broken-top-trail-to-no-name-lake,2.2,1184.0,3.0,Unknown,"['River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,OR
+7052808,sunrise-to-summit-trail,3.0,2613.0,15.0,Unknown,"['Views', 'Wildlife']","[5.0, 3]",Difficult,OR
+7018666,munra-point-trail,1.1,1730.0,85.0,Unknown,"['River/Creek', 'Views', 'Wildflowers']","[5.0, 3]",Intermediate,OR
+7041489,c2c-trail-phase-1,29.1,2180.0,2230.0,Off-leash,['Wildlife'],"[5.0, 1]",Easy,OR
+7041574,heceta-head-trail,1.6,354.0,538.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 3]",Intermediate,OR
+7036044,north-ridge-trail,3.9,0.0,1943.0,Unknown,['-none-'],"[5.0, 3]",Intermediate/Difficult,OR
+7009161,watchman-peak-trail,0.5,328.0,0.0,No Dogs,"['Lake', 'Views']","[4.8, 6]",Easy/Intermediate,OR
+7041543,wagner-butte-trail-1011,5.0,2186.0,41.0,Leashed,"['Views', 'Wildflowers']","[5.0, 1]",Easy/Intermediate,OR
+7032136,wagner-glade-trail,2.3,1709.0,14.0,Off-leash,"['Views', 'Wildflowers']","[5.0, 2]",Intermediate/Difficult,OR
+7031825,lewis-loops-gyre,1.4,390.0,379.0,Off-leash,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,OR
+7025314,mcneil-point-trail-600m,1.4,1100.0,63.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,OR
+7005966,misery-ridge,0.9,644.0,359.0,Leashed,['Views'],"[5.0, 2]",Intermediate/Difficult,OR
+7035217,south-ridge-trail,5.7,1435.0,257.0,Off-leash,['Views'],"[5.0, 2]",Intermediate,OR
+7050834,black-butte-trail-26,4.4,3244.0,0.0,Leashed,['Views'],"[5.0, 2]",Intermediate,OR
+7004719,laurel-highlands-hiking-trail,69.1,8652.0,8603.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[4.5, 20]",Intermediate/Difficult,PA
+7010223,orange-trail,5.8,443.0,436.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 12]",Intermediate,PA
+7010183,at-cumberland-valley-at-club-pa,17.8,1304.0,1361.0,Unknown,['-none-'],"[5.0, 3]",Easy/Intermediate,PA
+7035463,tussey-mountain-trail,4.2,399.0,256.0,Unknown,['Views'],"[5.0, 2]",Intermediate/Difficult,PA
+7031688,medium-loop,2.0,281.0,168.0,Leashed,['Fall Colors'],"[5.0, 2]",Intermediate,PA
+7010186,at-york-hiking-club-pa,8.6,1479.0,625.0,Unknown,['-none-'],"[5.0, 2]",Intermediate,PA
+7010814,mst-section-11,11.1,1751.0,1700.0,Unknown,['-none-'],"[5.0, 2]",Intermediate/Difficult,PA
+7050391,west-rim-trail,30.9,4060.0,4373.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate,PA
+7012626,bedford-heritage-trail,1.1,20.0,30.0,Unknown,['-none-'],"[5.0, 1]",Easy,PA
+7049097,quehanna-trail,76.4,9063.0,9067.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate/Difficult,PA
+7045867,thousand-steps-trail,0.5,767.0,0.0,Unknown,"['Birding', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,PA
+7022492,alligewi-rocks-trail,0.7,527.0,0.0,Unknown,"['Birding', 'Cave', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",,PA
+7032179,yellow-ridge-descent,1.5,18.0,534.0,Off-leash,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,PA
+7036145,dismal-run-trail,2.1,196.0,199.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,PA
+7033296,skippack-trail,3.5,53.0,244.0,Leashed,['-none-'],"[5.0, 1]",Easy,PA
+7037413,detweiler-run-rd,3.4,31.0,817.0,Unknown,"['Fall Colors', 'Views']","[5.0, 1]",Easy,PA
+7036014,rays-revenge,3.9,266.0,393.0,Leashed,"['Lake', 'Views']","[5.0, 1]",Intermediate,PA
+7046177,log-trail-white,1.6,166.0,197.0,Unknown,['-none-'],"[5.0, 1]",Difficult,PA
+7036340,orange-trail,2.7,308.0,275.0,Leashed,"['Fall Colors', 'Lake', 'Spring']","[5.0, 1]",Intermediate,PA
+7032603,ocean-view-loop-trail,1.5,40.0,36.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[5.0, 1]",Easy,RI
+7017796,turner-reservoir-loop-trail,2.9,43.0,44.0,Off-leash,"['Birding', 'Lake', 'River/Creek', 'Waterfall']","[3.8, 6]",Easy/Intermediate,RI
+7020342,napatree-point-trail,3.7,25.0,26.0,Leashed,"['Birding', 'Swimming', 'Views', 'Wildlife']","[4.0, 1]",Easy/Intermediate,RI
+7024822,sizzler,2.4,162.0,193.0,Leashed,"['Fall Colors', 'Views', 'Wildlife']","[4.0, 2]",Intermediate,RI
+7024817,steeple-chase,1.5,84.0,47.0,Leashed,"['Fall Colors', 'River/Creek', 'Wildlife']","[4.0, 2]",Intermediate,RI
+7054451,mount-tom-trail,3.2,320.0,82.0,Leashed,"['Birding', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,RI
+7032604,flint-point-loop,1.2,22.0,26.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[4.0, 1]",Easy,RI
+7034981,green-trail,0.5,10.0,13.0,Leashed,['-none-'],"[4.0, 1]",Easy/Intermediate,RI
+7054999,red-trail,1.9,132.0,191.0,Leashed,"['Fall Colors', 'River/Creek']","[4.0, 1]",Intermediate,RI
+7061048,kingbenson-preserve,2.1,74.0,143.0,Leashed,"['Birding', 'Lake', 'River/Creek', 'Wildlife']","[4.0, 1]",Easy,RI
+7020526,canonchet-trail,1.3,28.0,39.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Wildflowers', 'Wildlife']","[3.7, 3]",Easy,RI
+7024819,logs,1.9,85.0,86.0,Leashed,"['Fall Colors', 'Views', 'Wildlife']","[3.5, 2]",Intermediate,RI
+7024816,burnt-sawmill-road,2.0,95.0,62.0,Leashed,['-none-'],"[3.0, 2]",Easy,RI
+7028415,perimeter-loop,1.1,65.0,58.0,Unknown,['-none-'],"[3.0, 1]",Easy,RI
+7039154,wildcat-trail,0.2,21.0,23.0,Leashed,['Fall Colors'],"[3.0, 1]",Intermediate,RI
+7031941,lafayette-connector,0.3,6.0,19.0,Leashed,['Fall Colors'],"[3.0, 1]",Easy,RI
+7061014,escohaeg-trail,2.6,170.0,417.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,RI
+7051662,jerimoth-hill-trail,0.1,5.0,0.0,Unknown,['-none-'],"[1.5, 2]",Easy,RI
+7027711,table-rock-trail,3.3,1865.0,266.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views']","[4.6, 16]",Difficult,SC
+7042298,rainbow-falls-trail,1.5,1105.0,16.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,SC
+7043209,paradise-loop,3.0,248.0,238.0,Leashed,['-none-'],"[5.0, 2]",Intermediate,SC
+7027302,daniel-island-waterfront-trail,1.4,39.0,49.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[5.0, 1]",Easy,SC
+7041254,issaqueena-lake-trail,1.8,186.0,140.0,Off-leash,['Lake'],"[5.0, 1]",Intermediate,SC
+7026635,dismal-trail-12,1.3,0.0,1116.0,Leashed,"['Birding', 'Fall Colors', 'Wildlife']","[5.0, 1]",Difficult,SC
+7050804,yellow-branch-falls-trail,1.7,300.0,464.0,Unknown,"['River/Creek', 'Waterfall']","[5.0, 1]",Intermediate,SC
+7035249,whippoorwill-trail,5.3,380.0,352.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,SC
+7041238,double-tree-fork,2.5,251.0,385.0,Off-leash,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,SC
+7035666,deep-step,4.6,477.0,485.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,SC
+7043206,tunnel-trail,0.9,38.0,120.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,SC
+7048522,general-greene-tree,0.6,81.0,43.0,Unknown,"['Birding', 'River/Creek']","[5.0, 1]",Easy/Intermediate,SC
+7041232,triple-creek-trail,2.7,153.0,285.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,SC
+7035367,brown-wave,4.8,306.0,299.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,SC
+7035099,skinny,6.1,411.0,472.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,SC
+7041294,bombs-away-trail,0.8,145.0,108.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,SC
+7041292,loopty-loop,0.4,35.0,3.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,SC
+7041287,fast-trail,0.7,3.0,126.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,SC
+7030483,knot-bighill-segment,1.3,52.0,97.0,Leashed,"['Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,SC
+7009892,notch-trail,0.6,144.0,6.0,Unknown,['Views'],"[4.5, 26]",Intermediate,SD
+7005324,harney-peak-9-south,3.3,204.0,1189.0,Unknown,['Views'],"[4.6, 14]",Intermediate,SD
+7011144,sylvan-lake-shore-trail,1.0,33.0,30.0,Leashed,"['Birding', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Easy/Intermediate,SD
+7004804,castle-trail,5.3,140.0,117.0,No Dogs,['Views'],"[4.7, 9]",Easy/Intermediate,SD
+7019911,cathedral-spires-trail,0.9,426.0,10.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 7]",Intermediate,SD
+7033050,harney-peak-9-north,4.4,134.0,1945.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,SD
+7028183,norbeck-3,6.1,1984.0,226.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,SD
+7045809,founders-valley,0.8,62.0,76.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,SD
+7035069,centennial-trail-dalton-th-to-elk-creek-th,12.1,1682.0,1479.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,SD
+7045810,lower-rock-garden,0.4,9.0,235.0,Leashed,['-none-'],"[5.0, 1]",Difficult,SD
+7045812,north-horseshoe,0.8,206.0,3.0,Leashed,['Views'],"[5.0, 1]",Intermediate,SD
+7045846,south-horseshoe,0.7,190.0,20.0,Leashed,['-none-'],"[5.0, 1]",Difficult,SD
+7035423,centennial-trail-deer-creek-th-to-rapid-creek-th,5.6,550.0,1251.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,SD
+7020379,lovers-leap-trail,3.0,418.0,362.0,Unknown,['Views'],"[4.5, 11]",Intermediate,SD
+7019912,sunday-gulch-trail,3.0,719.0,719.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall']","[4.3, 14]",Intermediate/Difficult,SD
+7004776,saddle-pass-trail,0.3,206.0,0.0,Unknown,['Views'],"[4.2, 13]",Intermediate/Difficult,SD
+7034923,victorias-secret-c-cup,6.9,1148.0,830.0,Unknown,['Views'],"[4.5, 2]",Difficult,SD
+7010314,highland-creek-trail,8.7,644.0,1083.0,Leashed,"['River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 2]",Intermediate,SD
+7010311,rankin-ridge-trail,1.0,214.0,215.0,Leashed,['Views'],"[4.5, 2]",Easy/Intermediate,SD
+7035603,centennial-trail-brush-creek-th-to-spring-creek-th,6.1,893.0,905.0,Unknown,['-none-'],"[4.5, 2]",Intermediate,SD
+7011565,honey-creek-loop,4.1,631.0,651.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.9, 21]",Difficult,TN
+7008256,rainbow-falls-trail,6.6,3808.0,0.0,No Dogs,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers']","[4.4, 22]",Intermediate,NC
+7011625,twin-arches-loop-trail,3.9,703.0,698.0,Leashed,"['Birding', 'River/Creek', 'Views', 'Commonly Backpacked']","[4.6, 15]",Intermediate,TN
+7024216,overmountain-victory-trail-roan-mountain-segment,4.5,1842.0,669.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,TN
+7007999,baskins-creek-trail,2.8,908.0,608.0,No Dogs,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers']","[4.6, 10]",Intermediate/Difficult,NC
+7044832,gray-trail,0.8,81.0,303.0,Unknown,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,TN
+7032052,kimbles-ladder,0.6,171.0,93.0,Leashed,"['Fall Colors', 'Lake', 'Views']","[5.0, 2]",Intermediate/Difficult,TN
+7050446,byrd-creek-trail,1.9,88.0,70.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildlife']","[5.0, 1]",Intermediate,TN
+7023729,mountain-goat-trail-sewanee-monteagle,4.9,235.0,169.0,Leashed,"['Fall Colors', 'Wildflowers']","[5.0, 1]",Easy,TN
+7020776,laurel-run-trail,2.1,608.0,10.0,Unknown,"['Fall Colors', 'Views', 'Waterfall']","[5.0, 1]",Difficult,TN
+7008309,mount-cammerer-trail,0.6,95.0,131.0,No Dogs,['Views'],"[5.0, 1]",Intermediate,NC
+7034694,mill-creek-loop-trail,6.9,713.0,640.0,Leashed,"['Lake', 'Views']","[5.0, 1]",Intermediate,TN
+7039231,grindstone-ridge-trail,2.2,257.0,205.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,TN
+7023872,ridgetop-trail,2.0,53.0,62.0,Leashed,"['Fall Colors', 'Spring', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,TN
+7044917,the-ridge,1.7,144.0,204.0,Unknown,"['Fall Colors', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,TN
+7048247,tweetsie-trail,10.5,262.0,316.0,Leashed,['-none-'],"[5.0, 1]",Easy,TN
+7050445,overnight-trail,5.7,529.0,502.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Difficult,TN
+7023713,springfield-greenway,2.7,124.0,114.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,TN
+7044914,west-slope-trail,1.5,137.0,239.0,Unknown,"['Fall Colors', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,TN
+7048612,laurel-creek-trail,1.3,158.0,236.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Easy,TN
+7010158,guadalupe-peak-trail,4.2,2923.0,33.0,No Dogs,"['Fall Colors', 'Views', 'Wildlife']","[4.8, 43]",Intermediate/Difficult,TX
+7009942,santa-elena-canyon-trail,0.8,502.0,100.0,No Dogs,"['River/Creek', 'Views']","[4.2, 30]",Easy/Intermediate,TX
+7042333,pennybacker-bridge-overlook-trail,0.1,18.0,8.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,TX
+7004493,emory-peak-trail,1.5,799.0,0.0,No Dogs,['Views'],"[4.4, 22]",Intermediate/Difficult,TX
+7010153,devils-hall-trail,1.9,596.0,66.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.2, 23]",Intermediate,TX
+7030614,canyon-ridge-trail,3.2,237.0,228.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,TX
+7009923,grapevine-hills-trail,1.0,251.0,0.0,No Dogs,['Views'],"[4.4, 17]",Easy/Intermediate,TX
+7034887,juniper-ridge-trail,10.1,235.0,319.0,Leashed,['River/Creek'],"[5.0, 3]",Intermediate/Difficult,TX
+7034473,mt-lakeway-trail,1.8,424.0,114.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 2]",Intermediate,TX
+7038556,great-escape-trail,6.4,374.0,377.0,Leashed,"['Lake', 'Views']","[5.0, 2]",Easy,TX
+7005590,hillview-trail,2.8,251.0,229.0,Unknown,['Views'],"[4.3, 15]",Intermediate,TX
+7034407,rim-trail,0.6,6.0,119.0,Leashed,"['River/Creek', 'Views']","[5.0, 2]",Intermediate,TX
+7034394,trophy-trail,0.3,15.0,64.0,Leashed,['-none-'],"[5.0, 2]",Easy/Intermediate,TX
+7034470,canyon-trail,1.0,144.0,130.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Waterfall', 'Wildlife']","[5.0, 2]",Intermediate,TX
+7027798,givens-spicer-lowry-trail,3.1,192.0,160.0,Leashed,"['Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,TX
+7036010,chacon-creek-hike-and-bike-trail,2.2,54.0,28.0,Unknown,"['Birding', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy/Intermediate,TX
+7046696,lower-straw-house-trail,1.4,225.0,28.0,No Dogs,['-none-'],"[5.0, 1]",Easy/Intermediate,TX
+7047122,raccoon-loop,0.8,41.0,42.0,Unknown,['Birding'],"[5.0, 1]",Easy/Intermediate,TX
+7035913,woodlands-park-and-nature-preserve-trail,0.4,6.0,28.0,Leashed,"['Lake', 'River/Creek', 'Swimming', 'Waterfall']","[5.0, 1]",Easy,TX
+7053512,trinity-trails-haws-th-to-panther-island-th-to-cold-springs-th,2.8,37.0,50.0,Leashed,"['Birding', 'River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,TX
+7011090,mesa-arch-trail,0.7,61.0,57.0,No Dogs,['Views'],"[4.5, 36]",Easy,UT
+7006813,mt-olympus-trail,3.4,4158.0,5.0,Leashed,"['Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 28]",Difficult,UT
+7007945,rim-trail,5.7,445.0,982.0,Leashed,['Views'],"[4.7, 27]",Easy/Intermediate,UT
+7001606,west-rim-trail,14.7,867.0,3981.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 24]",Intermediate/Difficult,UT
+7014661,grandview-point-trail,0.9,85.0,107.0,No Dogs,['Views'],"[4.9, 16]",Easy/Intermediate,UT
+7045744,the-narrows-wall-street-to-big-springs-route,2.1,700.0,620.0,No Dogs,['River/Creek'],"[5.0, 11]",Difficult,UT
+7029082,left-fork-the-subway,3.9,1218.0,919.0,No Dogs,"['Birding', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 14]",Difficult,UT
+7031458,lower-calf-creek-falls-trail,2.9,471.0,140.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall']","[4.8, 15]",Easy/Intermediate,UT
+7001596,weeping-rock-trail,0.2,64.0,0.0,No Dogs,['Views'],"[3.9, 33]",Easy/Intermediate,UT
+7005049,syncline-loop-trail,7.9,1649.0,1649.0,No Dogs,['Views'],"[4.8, 13]",Difficult,UT
+7001608,angels-landing-trail,0.5,390.0,0.0,No Dogs,['Views'],"[4.6, 17]",Difficult,UT
+7006727,mount-timpanogos-trail-052,6.0,4043.0,20.0,Unknown,"['Birding', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 9]",Difficult,UT
+7002335,devils-garden-primitive-loop,2.2,247.0,439.0,No Dogs,['-none-'],"[4.8, 12]",Intermediate,UT
+7027257,kanarra-creek-trail,2.1,809.0,110.0,Unknown,"['River/Creek', 'Waterfall']","[4.8, 13]",Intermediate/Difficult,UT
+7002336,devils-garden-main-trail,2.1,321.0,129.0,No Dogs,['Views'],"[4.6, 17]",Intermediate,UT
+7014629,chesler-park-trail,2.1,689.0,269.0,No Dogs,"['Views', 'Commonly Backpacked']","[4.8, 12]",Intermediate,UT
+7010465,white-pine-lake-trail,4.3,824.0,476.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 15]",Intermediate,UT
+7023592,grandeur-peak-trail,2.9,2387.0,0.0,Leashed,"['Views', 'Wildlife']","[4.4, 20]",Intermediate,UT
+7001599,watchman-trail,1.8,559.0,78.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 28]",Easy/Intermediate,UT
+7002259,landscape-arch-trail,0.0,6.0,0.0,No Dogs,['Views'],"[4.6, 16]",Easy/Intermediate,UT
+7035889,forest-city-trail,2.0,1208.0,0.0,Off-leash,"['Fall Colors', 'River/Creek']","[5.0, 2]",Intermediate/Difficult,VT
+7049227,green-mountain-trail-424,3.8,1130.0,638.0,Off-leash,"['Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views']","[5.0, 1]",Intermediate/Difficult,VT
+7050442,the-long-trail-section-4-killington-to-rt-17-waitsfield,55.8,11328.0,11221.0,Off-leash,['-none-'],"[5.0, 1]",Difficult,VT
+7041049,wampahoofus-trail,0.6,862.0,0.0,Leashed,['-none-'],"[5.0, 1]",Difficult,VT
+7049230,ice-beds-trail-414,0.8,147.0,256.0,Off-leash,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 1]",Intermediate,VT
+7035771,blue-ribbon,4.5,409.0,1174.0,Off-leash,['Views'],"[5.0, 1]",Intermediate,VT
+7038178,fusters-trail,3.3,283.0,649.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,VT
+7038184,noodles-revenge,2.1,335.0,64.0,Unknown,['-none-'],"[5.0, 1]",Easy,VT
+7037362,canyon-north-extension-trail,0.4,199.0,31.0,Leashed,"['Birding', 'Cave', 'Fall Colors', 'Views']","[5.0, 1]",Difficult,VT
+7022452,maquam-creek-nature-trail,1.1,2.0,5.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[5.0, 1]",Easy,VT
+7038190,stonewall,0.9,33.0,146.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,VT
+7038187,the-rabbit-hole,0.7,20.0,222.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,VT
+7038201,bubba-trail,1.3,39.0,445.0,Unknown,['-none-'],"[5.0, 1]",Difficult,VT
+7038196,zebedee,0.8,56.0,57.0,Unknown,['-none-'],"[5.0, 1]",Easy/Intermediate,VT
+7038197,upper-fusters,0.8,0.0,251.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,VT
+7038191,warman,0.7,23.0,269.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,VT
+7062019,clinic,1.2,34.0,387.0,Unknown,['-none-'],"[5.0, 1]",Difficult,VT
+7057789,rasta-man,1.8,246.0,602.0,Unknown,['-none-'],"[5.0, 1]",,VT
+7057788,burning-spear,1.0,44.0,247.0,Unknown,['-none-'],"[5.0, 1]",Difficult,VT
+7057786,joes-trail,0.9,68.0,244.0,Unknown,['-none-'],"[5.0, 1]",,VT
+7005422,ridge-trail,2.9,2070.0,0.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 9]",Difficult,VA
+7010200,at-mt-rogers-appalachian-trail-club-va,57.5,9912.0,9173.0,Unknown,['-none-'],"[5.0, 6]",Intermediate/Difficult,VA
+7012235,doyles-river-trail,2.2,22.0,1334.0,Unknown,"['River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 5]",Intermediate,VA
+7011995,dark-hollow-falls-trail,0.9,3.0,544.0,No Dogs,"['River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 10]",Intermediate,VA
+7012066,little-devils-stairs-trail,2.0,1459.0,0.0,Leashed,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Waterfall']","[4.4, 15]",Intermediate/Difficult,VA
+7012228,whiteoak-canyon,5.0,3.0,2335.0,Unknown,"['River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.8, 8]",Intermediate/Difficult,VA
+7029227,andy-layne-trail,2.7,1262.0,189.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[5.0, 3]",Difficult,VA
+7031979,potomac-heritage-trail-riverbend-park,2.9,116.0,57.0,Leashed,"['Lake', 'River/Creek', 'Views']","[5.0, 3]",Easy/Intermediate,VA
+7005425,saddle-trail,1.8,1264.0,0.0,No Dogs,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,VA
+7011939,brown-mountain-trail,5.0,559.0,2115.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,VA
+7034648,torry-ridge-trail,7.4,482.0,2384.0,Off-leash,['Views'],"[5.0, 2]",Intermediate/Difficult,VA
+7036139,tuscarora-bear-wallow-trail-4052,4.4,522.0,1293.0,Unknown,['Fall Colors'],"[5.0, 2]",Difficult,VA
+7032646,wild-oak-national-recreation-trail-716,27.1,6003.0,5989.0,Off-leash,"['River/Creek', 'Views', 'Commonly Backpacked']","[4.6, 8]",Difficult,VA
+7004383,lake-braddock-trail,1.5,30.0,29.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Wildflowers']","[5.0, 1]",Easy/Intermediate,VA
+7038345,rocky-run-stream-valley-trail,3.7,120.0,6.0,Leashed,['-none-'],"[5.0, 1]",Easy,VA
+7029209,harkening-hill-trail,3.5,845.0,851.0,Leashed,"['Birding', 'Fall Colors', 'Views']","[5.0, 2]",Intermediate/Difficult,VA
+7027179,stubblefield-falls-overlook-trail,0.8,20.0,179.0,Unknown,"['Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,VA
+7036782,valley-trail,1.0,32.0,99.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Wildlife']","[5.0, 2]",Easy/Intermediate,VA
+7033608,iron-mountain-trail,22.4,1986.0,3354.0,Unknown,['Views'],"[5.0, 1]",Intermediate/Difficult,VA
+7012217,trayfoot-mountain-trail,4.8,1976.0,485.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Difficult,VA
+7003849,lake-twentytwo-trail,3.3,1398.0,53.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.6, 39]",Intermediate,WA
+7001982,mt-storm-king-trail,3.0,3748.0,53.0,No Dogs,"['Lake', 'River/Creek', 'Views', 'Wildlife']","[4.4, 29]",Difficult,WA
+7001905,hurricane-hill-nature-trail,1.6,693.0,46.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.7, 24]",Easy/Intermediate,WA
+7018810,lake-serene-trail-1068,3.5,2155.0,177.0,Unknown,"['Lake', 'Swimming', 'Waterfall']","[4.5, 27]",Intermediate/Difficult,WA
+7004544,granite-mountain-trail-1016,2.8,3060.0,0.0,Unknown,"['Fall Colors', 'Views']","[4.9, 18]",Intermediate/Difficult,WA
+7001861,hoh-river-trail,17.1,4897.0,497.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.5, 22]",Intermediate,WA
+7009858,little-si-trail,1.9,1114.0,82.0,Leashed,['Views'],"[4.0, 33]",Intermediate,WA
+7002003,mt-ellinor-trail-812,2.9,3280.0,56.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[4.7, 18]",Difficult,WA
+7002066,hall-of-mosses-trail,0.7,179.0,124.0,No Dogs,"['Birding', 'Wildlife']","[4.3, 24]",Easy,WA
+7021084,snow-lake-trail,3.3,1279.0,332.0,Leashed,['-none-'],"[4.2, 27]",Intermediate,WA
+7006899,colchuck-lake-trail-15991,5.6,3361.0,770.0,No Dogs,"['Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 9]",Intermediate/Difficult,WA
+7013135,cascade-pass-trail,15.4,1906.0,3393.0,No Dogs,"['River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 8]",Intermediate/Difficult,WA
+7011788,trail-121-waterfall-loop,0.5,104.0,82.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers']","[5.0, 2]",Intermediate,WA
+7004269,heather-lake-trail,2.6,1122.0,96.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.4, 19]",Intermediate,WA
+7015308,hidden-lake-trail-745,4.1,3283.0,61.0,Off-leash,"['Lake', 'Views', 'Wildflowers', 'Commonly Backpacked']","[4.8, 12]",Intermediate/Difficult,WA
+7015417,sourdough-mountain-trail,9.2,5199.0,4038.0,Unknown,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 8]",Intermediate/Difficult,WA
+7001912,obstruction-point-deer-park-trail,7.5,1002.0,1942.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 11]",Intermediate/Difficult,WA
+7005905,mailbox-peak-old-trail,1.6,2834.0,0.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[4.7, 11]",Difficult,WA
+7002134,comet-falls-trail,2.7,1921.0,159.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.8, 10]",Intermediate/Difficult,WA
+7002156,grove-of-the-patriarchs,0.3,4.0,14.0,No Dogs,"['Birding', 'River/Creek', 'Wildlife']","[4.5, 15]",Easy,WA
+7007118,battery-kemble-trail,1.2,333.0,0.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,DC
+7005142,custis-trail,4.8,328.0,99.0,Unknown,['Views'],"[4.5, 2]",Easy/Intermediate,DC
+7005138,capitol-crescent-trail-paved,7.3,27.0,311.0,Unknown,['River/Creek'],"[4.5, 2]",Easy,MD
+7007064,glover-archbold-trail,3.0,370.0,53.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildflowers', 'Wildlife']","[4.3, 3]",Easy/Intermediate,DC
+7014283,black-horse-trail-south,1.6,85.0,166.0,Unknown,"['Fall Colors', 'River/Creek', 'Views']","[4.3, 3]",Intermediate,DC
+7000206,western-ridge-trail,3.7,219.0,331.0,Leashed,"['Birding', 'River/Creek', 'Wildflowers', 'Wildlife']","[4.0, 2]",Easy/Intermediate,DC
+7017464,valley-trail-north,3.1,78.0,85.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 2]",Intermediate,MD
+7000209,valley-trail-south,2.1,219.0,159.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 2]",Intermediate/Difficult,DC
+7063400,melvin-c-hazen-trail,0.5,155.0,0.0,Unknown,"['Fall Colors', 'River/Creek', 'Spring']","[4.0, 1]",Intermediate,DC
+7004794,mount-vernon-trail,18.9,402.0,311.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[3.5, 8]",Easy,DC
+7014227,bike-trail-5-klingle-road-bridge-south,1.8,39.0,32.0,Unknown,['-none-'],"[3.7, 3]",Easy,DC
+7014271,soapstone-valley-foot-trail,0.9,6.0,160.0,Unknown,['-none-'],"[3.5, 2]",Easy/Intermediate,DC
+7014269,piney-branch-foot-trail,0.4,1.0,39.0,Leashed,['-none-'],"[3.0, 1]",Easy,DC
+7013001,swamp-trail,1.4,29.0,28.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[3.0, 1]",Easy,VA
+7014263,holly-trail,0.6,173.0,48.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,DC
+7014265,pine-trail,0.3,74.0,0.0,Unknown,['-none-'],"[3.0, 1]",Easy,DC
+7014268,pinehurst-trail,1.3,113.0,11.0,Unknown,['River/Creek'],"[3.0, 1]",Easy/Intermediate,DC
+7014262,fort-derussy-trail,0.5,8.0,161.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,DC
+7014276,white-horse-trail,1.8,262.0,196.0,Unknown,['Birding'],"[3.0, 1]",Easy/Intermediate,DC
+7014223,bike-trail-1-wise-rd-along-oregon-ave,1.4,137.0,120.0,Unknown,['-none-'],"[3.0, 1]",Easy,DC
+7005094,rocky-ridge-trail,3.2,87.0,313.0,Leashed,"['Views', 'Wildlife']","[5.0, 3]",Intermediate,WV
+7005125,dunkenbarger-trail,1.7,121.0,84.0,Unknown,"['River/Creek', 'Waterfall', 'Wildlife']","[5.0, 4]",Intermediate,WV
+7017447,mont-chateau-trail-north,1.7,17.0,750.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek']","[5.0, 3]",Difficult,WV
+7005126,little-stonecoal-trail,1.5,14.0,930.0,Unknown,"['River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,WV
+7017642,glade-creek-trail,5.7,183.0,881.0,Leashed,"['Fall Colors', 'River/Creek', 'Swimming', 'Waterfall']","[4.5, 11]",Easy/Intermediate,WV
+7017470,rattlesnake-trail,0.8,29.0,200.0,Unknown,['-none-'],"[5.0, 2]",Difficult,WV
+7047580,reverie-trail,2.4,777.0,445.0,Leashed,['-none-'],"[5.0, 2]",Difficult,WV
+7017469,sunset-wall-trail,0.6,82.0,71.0,Unknown,['Fall Colors'],"[5.0, 2]",Intermediate/Difficult,WV
+7005121,breathed-mountain-trail,2.5,87.0,463.0,Off-leash,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,WV
+7046698,lindy-point-overlook-trail,0.4,1.0,48.0,Leashed,"['Fall Colors', 'Views']","[5.0, 1]",Easy/Intermediate,WV
+7036377,eleanor-city-park-trail,18.1,1036.0,1031.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,WV
+7046993,north-mountain-trail,6.4,667.0,701.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,VA
+7030374,rorhbaugh-trail-508,3.7,105.0,659.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Intermediate,WV
+7050689,long-mountain-trail,8.7,684.0,2175.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,VA
+7034916,plantation-trail,8.2,609.0,348.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,WV
+7005123,beaver-view-trail,1.2,18.0,242.0,Unknown,"['Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,WV
+7046216,easy-up,2.3,370.0,38.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,WV
+7038091,bail-out,1.1,0.0,654.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate,WV
+7035839,tea-creek-mountain-trail-452,4.8,1701.0,428.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,WV
+7039720,high-knob-trail-1024,2.3,0.0,1897.0,Off-leash,['-none-'],"[5.0, 1]",,VA
+7012535,ice-age-trail-kettle-moraine-state-forest-southern-unit,32.3,3479.0,3409.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Intermediate/Difficult,WI
+7007332,ice-age-trail-gibraltar-rock,4.8,799.0,684.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 9]",Intermediate,WI
+7027415,bradys-bluff-trail-west,0.5,465.0,22.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers']","[5.0, 3]",Intermediate,MN
+7016113,bicentennial-trail,2.0,333.0,538.0,Unknown,['-none-'],"[5.0, 3]",Intermediate/Difficult,WI
+7006982,ice-age-trail-lodi-marsh-segment,4.2,648.0,641.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,WI
+7034157,bairds-creek-orange-loop,8.7,581.0,576.0,Leashed,"['Fall Colors', 'River/Creek']","[5.0, 2]",Intermediate,WI
+7016107,quarry-loop,1.8,119.0,128.0,Unknown,['-none-'],"[5.0, 2]",Easy/Intermediate,WI
+7027454,perrot-ridge-trail,2.1,478.0,504.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,MN
+7016109,miller-bluff-look-out,0.7,65.0,66.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,WI
+7031578,sugar-maple-nature-trail,1.5,281.0,369.0,No Dogs,"['Birding', 'Cave', 'Waterfall', 'Wildflowers']","[5.0, 2]",Intermediate,WI
+7031833,birkie-classic-trail,35.0,3295.0,3109.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,WI
+7038117,green-trail-badger-central,2.8,18.0,18.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,WI
+7042467,yellow-trail-badger-north,3.0,70.0,78.0,Unknown,"['Birding', 'Fall Colors', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,WI
+7031834,birkie-ridge-trail,2.6,332.0,103.0,Off-leash,"['Fall Colors', 'Views']","[5.0, 1]",Intermediate/Difficult,WI
+7042465,red-trail-badger-south,2.7,81.0,83.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,WI
+7052372,treasures-trace,4.1,314.0,356.0,Unknown,['-none-'],"[5.0, 1]",Difficult,WI
+7031832,birkie-skate-trail,32.1,2972.0,3156.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,WI
+7027456,bradys-bluff-trail-north,1.2,430.0,5.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MN
+7027417,bradys-bluff-trail-east,0.8,446.0,2.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,MN
+7037013,danky-dank-trail,3.7,172.0,136.0,Off-leash,['-none-'],"[5.0, 1]",Intermediate/Difficult,WI
+7000089,cascade-canyon-trail,4.5,992.0,0.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.8, 35]",Intermediate,WY
+7008581,brink-of-lower-falls-trail,0.4,0.0,248.0,No Dogs,"['River/Creek', 'Views']","[4.7, 23]",Intermediate,WY
+7039395,delta-lake-route,0.5,505.0,19.0,No Dogs,"['Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 11]",Difficult,WY
+7012726,red-beds-trail,2.9,472.0,457.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.8, 12]",Intermediate,WY
+7008920,red-rock-point-trail,0.3,7.0,247.0,Unknown,"['River/Creek', 'Views', 'Waterfall']","[4.7, 12]",Intermediate,WY
+7008668,fountain-paint-pot-trail,0.6,35.0,27.0,No Dogs,"['Geyser', 'Hot Spring', 'Views']","[4.7, 11]",Easy,WY
+7000249,leigh-lake-trail,2.9,50.0,38.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 8]",Easy,WY
+7012729,hanging-canyon-to-lake-of-the-crags,2.2,2774.0,44.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.6, 12]",Difficult,WY
+7017141,osprey-falls-trail,1.2,72.0,740.0,No Dogs,"['River/Creek', 'Views', 'Waterfall']","[4.9, 7]",Intermediate/Difficult,WY
+7000114,paintbrush-canyon,7.0,3578.0,63.0,Unknown,"['Birding', 'Lake', 'River/Creek', 'Views', 'Wildlife']","[4.9, 7]",Difficult,WY
+7034182,cloud-peak-route,3.8,3050.0,142.0,Leashed,"['Lake', 'River/Creek', 'Views', 'Wildflowers', 'Commonly Backpacked']","[5.0, 2]",Difficult,WY
+7020804,indian-basin-trail,5.6,1941.0,346.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Waterfall']","[5.0, 3]",Intermediate/Difficult,WY
+7006882,south-teton-trail-027,10.2,3408.0,36.0,Unknown,"['Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 3]",Easy/Intermediate,WY
+7030037,glacier-trail,23.6,5380.0,2406.0,Unknown,['-none-'],"[5.0, 3]",Difficult,WY
+7000091,north-fork-cascade-canyon,4.9,2775.0,6.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Wildlife']","[5.0, 3]",Difficult,WY
+7008683,heart-lake-trail,19.4,858.0,1687.0,No Dogs,"['Birding', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,WY
+7020802,titcomb-basin-trail,4.8,945.0,63.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,WY
+7000317,valley-trail,8.6,847.0,1033.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,WY
+7041096,tornado-trail,2.1,187.0,176.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7026384,cannon-ball-trail,1.4,104.0,42.0,Leashed,"['Birding', 'Fall Colors', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,AL
+7041095,storm-trail,1.4,135.0,132.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7041097,five-oaks-trail,2.7,272.0,282.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7041094,lightning-trail,0.5,40.0,62.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7032221,the-deadening-alpine-trail,3.7,608.0,603.0,Leashed,"['Lake', 'Views']","[4.6, 5]",Intermediate/Difficult,AL
+7023433,furnace-quarry-trail,1.4,114.0,149.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Wildlife']","[4.5, 2]",Intermediate/Difficult,AL
+7053304,squirrels-nest-trail,0.3,5.0,28.0,Leashed,['-none-'],"[4.0, 1]",Intermediate/Difficult,AL
+7027106,gator-lake-trail,0.8,10.0,14.0,No Dogs,"['Birding', 'Lake', 'Wildflowers', 'Wildlife']","[3.0, 1]",Easy/Intermediate,AL
+7053434,general-cockrells-trail,1.8,60.0,56.0,Leashed,['-none-'],"[3.0, 1]",Intermediate,AL
+7053303,breastworks-trail,1.1,31.0,31.0,Leashed,['-none-'],"[3.0, 1]",Easy,AL
+7053305,hallets-trail,1.2,58.0,47.0,Leashed,['-none-'],"[3.0, 1]",Easy/Intermediate,AL
+7053308,jackson-springs-trail,0.3,33.0,2.0,Leashed,['-none-'],"[3.0, 1]",Easy/Intermediate,AL
+7053307,general-garrard-trail,0.5,25.0,16.0,Leashed,['-none-'],"[3.0, 1]",Easy/Intermediate,AL
+7053302,general-liddells-trail,0.3,46.0,6.0,Leashed,['-none-'],"[3.0, 1]",Easy/Intermediate,AL
+7040567,ccc-quarry-trail,1.6,323.0,27.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7047791,jones-branch-loop,2.6,163.0,160.0,Off-leash,"['Birding', 'River/Creek', 'Spring', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,AL
+7040561,vizzney-land-trail,1.0,65.0,54.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AL
+7040566,family-trail,1.9,57.0,118.0,Unknown,['-none-'],"[5.0, 1]",Easy,AL
+7004482,bill-and-marion-certain-trail,1.7,316.0,40.0,Unknown,"['Fall Colors', 'Views']","[4.7, 3]",Intermediate,AL
+7004599,varnedoe-trail,1.7,55.0,183.0,Off-leash,['Views'],"[4.7, 3]",Difficult,AL
+7004860,spring-trail,0.4,253.0,14.0,Unknown,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.7, 3]",,AL
+7010702,waterline-trail,0.8,555.0,0.0,Leashed,"['River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.4, 5]",Intermediate/Difficult,AL
+7005764,mckay-hollow-trail,2.2,546.0,575.0,Unknown,['-none-'],"[4.4, 5]",Difficult,AL
+7040559,never-never-land-loop,2.7,199.0,200.0,Unknown,['Wildflowers'],"[4.5, 2]",Intermediate,AL
+7017949,oak-park-trail,0.9,374.0,4.0,Leashed,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers']","[4.3, 3]",Intermediate,AL
+7017950,buzzards-roost,0.3,84.0,0.0,Leashed,"['Birding', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.3, 3]",Intermediate/Difficult,AL
+7005072,arrowhead-trail,4.7,350.0,753.0,Unknown,"['Fall Colors', 'River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.3, 4]",Intermediate/Difficult,AL
+7031854,emergency-access-road,0.4,32.0,10.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,AL
+7031851,big-levee,1.9,102.0,101.0,Leashed,['-none-'],"[4.5, 2]",Easy/Intermediate,AL
+7031852,connector-a,0.8,49.0,33.0,Leashed,['-none-'],"[4.5, 2]",Easy/Intermediate,AL
+7031855,zion-cemetery-ridge,1.5,103.0,109.0,Leashed,['-none-'],"[4.3, 3]",Easy/Intermediate,AL
+7031856,dragons-tail,1.6,70.0,70.0,Leashed,['-none-'],"[4.0, 2]",Easy/Intermediate,AL
+7031857,stagecoach-plateau,1.4,107.0,94.0,Leashed,['-none-'],"[4.0, 2]",Easy/Intermediate,AL
+7031853,connector-b,0.6,40.0,25.0,Leashed,['-none-'],"[4.0, 2]",Easy/Intermediate,AL
+7031861,emergency-access-road,0.2,37.0,0.0,Leashed,['-none-'],"[4.0, 1]",Easy,AL
+7031859,beaver-tail-flats,0.9,76.0,69.0,Leashed,['-none-'],"[3.5, 2]",Easy/Intermediate,AL
+7031860,connector-b2,0.3,15.0,16.0,Leashed,['-none-'],"[3.5, 2]",Easy,AL
+7031862,sams-creekside-trail,0.7,22.0,22.0,Leashed,['-none-'],"[3.0, 2]",Easy,AL
+7063177,fort-rucker-mountain-bike-trail,0.3,25.0,33.0,Unknown,['-none-'],"[3.0, 2]",Easy,AL
+7063146,schools-out,0.4,0.0,40.0,Unknown,['-none-'],"[3.0, 2]",Easy,AL
+7043267,conecuh-trail-north,17.2,841.0,821.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7043269,conecuh-trail-north,14.4,765.0,770.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,AL
+7063183,molnar-road,1.1,24.0,50.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7063182,nature-trail,0.5,42.0,73.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7063181,sneads-pond-trail,1.2,1.0,62.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7063180,molnar-road,0.8,9.0,11.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7063178,ruckers-revenge-bonus,0.4,30.0,23.0,Unknown,['-none-'],"[3.0, 1]",Easy,AL
+7002520,toms-trail,3.0,196.0,120.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy/Intermediate,AK
+7002518,windmill-loop,9.4,786.0,788.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[3.0, 1]",Easy/Intermediate,AK
+7032863,cache-mountain-loop,22.2,1832.0,1703.0,Unknown,"['River/Creek', 'Views']","[3.0, 1]",Easy/Intermediate,AK
+7036953,big-bend-trail,15.6,1357.0,1491.0,Unknown,['-none-'],"[3.0, 1]",Intermediate,AK
+7036958,fossil-gap-trail,8.7,331.0,533.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,AK
+7036947,windy-creek-trail,8.3,887.0,326.0,Unknown,['Views'],"[3.0, 1]",Intermediate,AK
+7055825,angel-rocks-trail,3.0,804.0,807.0,Unknown,"['Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate/Difficult,AK
+7010602,savage-alpine-trail,4.3,1382.0,1551.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.4, 7]",Intermediate/Difficult,AK
+7018923,granite-tors-trail,15.0,3255.0,3252.0,Off-leash,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.4, 5]",Intermediate/Difficult,AK
+7010589,mckinley-bar-trail,2.5,72.0,134.0,Unknown,"['Lake', 'River/Creek', 'Views', 'Wildlife']","[4.4, 5]",Easy/Intermediate,AK
+7010605,savage-river-loop-trail,1.7,258.0,253.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.4, 5]",Easy/Intermediate,AK
+7052972,curry-ridge-trail,3.1,1012.0,35.0,Off-leash,"['Birding', 'Views']","[4.5, 2]",Easy/Intermediate,AK
+7020827,kesugi-ridge-trail,30.0,5968.0,6542.0,Unknown,['Wildlife'],"[4.3, 3]",Intermediate/Difficult,AK
+7010613,triple-lakes-trail,8.9,1404.0,1255.0,No Dogs,"['Lake', 'Views', 'Wildlife']","[4.2, 5]",Intermediate,AK
+7010580,eielson-alpine-trail,0.8,948.0,0.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 3]",Difficult,AK
+7037433,x-lake-loop-trail,3.1,143.0,149.0,Leashed,['-none-'],"[4.0, 2]",Easy/Intermediate,AK
+7010603,savage-cabin-trail,0.3,25.0,21.0,No Dogs,['Views'],"[4.0, 2]",Easy,AK
+7010591,meadow-view-trail,0.3,56.0,57.0,No Dogs,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 2]",Easy/Intermediate,AK
+7010590,mckinley-station-trail,1.3,73.0,5.0,No Dogs,"['River/Creek', 'Wildlife']","[4.0, 2]",Easy,AK
+7010598,roadside-trail,2.0,383.0,69.0,Leashed,['Wildlife'],"[4.0, 2]",Easy,AK
+7014029,trail-creek-trail,29.3,2059.0,2733.0,Off-leash,"['Fall Colors', 'River/Creek', 'Views', 'Wildlife']","[4.0, 1]",Intermediate,AK
+7017139,wickersham-creek-trail,18.6,991.0,1852.0,Unknown,['-none-'],"[4.0, 1]",Intermediate,AK
+7010593,mountain-vista-trail,0.7,56.0,57.0,No Dogs,"['River/Creek', 'Views', 'Wildlife']","[3.6, 5]",Easy,AK
+7010582,blueberry-hill,0.6,153.0,51.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'Views', 'Wildflowers', 'Wildlife']","[3.5, 2]",Easy/Intermediate,AK
+7046391,mchugh-lake-trail,6.9,3119.0,62.0,Off-leash,"['Lake', 'Swimming', 'Views', 'Commonly Backpacked']","[5.0, 1]",Easy/Intermediate,AK
+7045991,abes-trail,0.8,505.0,0.0,Off-leash,['-none-'],"[5.0, 1]",Easy/Intermediate,AK
+7047292,flattop-ptarmigan-route,3.7,2533.0,1010.0,Off-leash,['Views'],"[5.0, 1]",Difficult,AK
+7029889,a1-ridge-snowcat-route,4.5,2823.0,111.0,Unknown,"['River/Creek', 'Waterfall', 'Wildflowers']","[5.0, 1]",Intermediate/Difficult,AK
+7052172,coastal-trail,5.3,502.0,440.0,Off-leash,"['River/Creek', 'Swimming', 'Views', 'Wildlife', 'Commonly Backpacked']","[5.0, 1]",Intermediate,AK
+7034782,devils-creek-trail,10.1,1860.0,486.0,Unknown,"['River/Creek', 'Views']","[5.0, 1]",Intermediate/Difficult,AK
+7038629,penguin-peak-route,1.4,1365.0,16.0,Unknown,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Difficult,AK
+7054895,resurrection-river-trail-319,16.1,571.0,1369.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AK
+7053347,flattop-backside-trail,0.8,1584.0,2.0,Off-leash,['Views'],"[5.0, 1]",Difficult,AK
+7006309,wolf-run,2.1,55.0,55.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,AK
+7047299,rainbow-peak-trail,1.6,2582.0,0.0,Off-leash,['Views'],"[5.0, 1]",Difficult,AK
+7047008,bonanza-mine-trail,3.9,3694.0,0.0,Off-leash,"['River/Creek', 'Views', 'Waterfall', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,AK
+7045980,twin-peaks-trail,2.6,1839.0,0.0,Off-leash,"['Fall Colors', 'Lake', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,AK
+7050773,perseverance-trail,2.3,909.0,20.0,Leashed,"['River/Creek', 'Views', 'Waterfall', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AK
+7055275,mt-bradley-jumbo-trail,3.1,2991.0,38.0,Unknown,['Wildlife'],"[5.0, 1]",,AK
+7055227,eaglecrest-service-road,2.3,1469.0,14.0,Leashed,"['Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AK
+7025641,east-glacier-trail,2.9,644.0,641.0,Unknown,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.0, 3]",Intermediate,AK
+7034364,gold-creek-flume-trail,0.7,105.0,82.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.0, 1]",Easy,AK
+7018845,bartlett-lake-trail,4.8,347.0,391.0,No Dogs,"['Birding', 'Lake', 'Views', 'Wildlife']","[4.0, 1]",Easy/Intermediate,AK
+7034238,basin-road,1.0,143.0,27.0,Leashed,"['River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,AK
+7055231,dan-moller-trail-518,2.2,1104.0,4.0,Leashed,['-none-'],"[4.0, 1]",Easy/Intermediate,AK
+7030570,point-gustavus-route,5.7,42.0,52.0,No Dogs,"['Views', 'Wildlife']","[4.0, 1]",Easy/Intermediate,AK
+7053253,nugget-falls-trail-33752,1.0,57.0,78.0,Unknown,"['Lake', 'Views', 'Waterfall', 'Wildlife']","[3.5, 2]",Easy,AK
+7004541,lower-dewey-trail,0.6,453.0,8.0,Off-leash,"['Lake', 'Wildlife']","[3.3, 3]",Intermediate,AK
+7034029,indian-point-trail,0.5,19.0,55.0,Leashed,['Views'],"[3.0, 1]",Easy/Intermediate,AK
+7018848,beach-trail,0.8,34.0,38.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[3.0, 1]",Easy,AK
+7018852,forest-trail,0.4,93.0,7.0,No Dogs,['-none-'],"[3.0, 1]",Easy/Intermediate,AK
+7018857,tlingit-trail,0.6,34.0,27.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[2.0, 1]",Easy,AK
+7018849,campground-trail,0.4,27.0,31.0,No Dogs,['-none-'],"[2.0, 1]",Easy,AK
+7030571,nagoonberry-loop-trail,2.2,19.0,21.0,No Dogs,['-none-'],"[0.0, 0]",Easy,AK
+7018846,bartlett-laketowers-trail,3.0,139.0,103.0,No Dogs,['-none-'],"[0.0, 0]",Easy,AK
+7032436,falls-and-lake-trail,1.8,360.0,27.0,Unknown,"['Birding', 'River/Creek', 'Waterfall']","[5.0, 1]",Easy/Intermediate,AK
+7031753,beaver-pond-loop,1.8,352.0,15.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AK
+7044247,dumpling-mountain-trail,4.4,2357.0,55.0,Unknown,"['Birding', 'Views']","[4.0, 2]",Intermediate,AK
+7044201,valley-of-10000-smokes-trail,1.3,58.0,543.0,Unknown,['-none-'],"[3.0, 1]",Intermediate,AK
+7035727,antennas,0.3,0.0,215.0,Off-leash,['-none-'],"[3.0, 1]",Intermediate/Difficult,AK
+7044328,pillar-mountain-road,3.0,995.0,313.0,Off-leash,['-none-'],"[2.0, 1]",Intermediate,AK
+7044200,brooks-falls-trail,0.6,14.0,19.0,,['-none-'],"[0.0, 0]",Easy,AK
+7032531,brins-mesa-trail,3.6,437.0,528.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,AZ
+7005255,granite-mountain-loop-trail,4.5,283.0,283.0,Leashed,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7023472,hidden-valley-trail,0.5,2.0,137.0,Leashed,['-none-'],"[5.0, 2]",Intermediate/Difficult,AZ
+7002572,aerie,2.9,262.0,223.0,Leashed,"['Birding', 'Views']","[5.0, 2]",Intermediate,AZ
+7037058,200-trail,3.9,462.0,582.0,Leashed,['-none-'],"[5.0, 2]",Intermediate/Difficult,AZ
+7045615,bell-rock-trail,0.7,331.0,11.0,Unknown,['Views'],"[4.8, 5]",Intermediate/Difficult,AZ
+7042232,go-john-trail,5.7,696.0,687.0,Leashed,['-none-'],"[4.8, 5]",Intermediate/Difficult,AZ
+7045244,lower-cliff-dwelling-trail,0.4,337.0,0.0,Leashed,"['Birding', 'Views']","[5.0, 1]",Easy/Intermediate,AZ
+7002839,bell-pass-trail,3.3,1194.0,622.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,AZ
+7034581,oak-creek-trail,0.7,32.0,7.0,Leashed,"['River/Creek', 'Swimming', 'Views']","[5.0, 1]",Easy,AZ
+7003260,azt-passage-38-north-kaibab,14.7,616.0,6384.0,No Dogs,"['Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.6, 12]",Intermediate/Difficult,AZ
+7049444,beaver-falls-trail,2.9,18.0,642.0,Unknown,"['River/Creek', 'Spring', 'Swimming', 'Views', 'Waterfall']","[5.0, 4]",Intermediate/Difficult,AZ
+7003258,new-hance,6.0,324.0,4746.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 10]",,AZ
+7003290,tanner,7.8,475.0,5164.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 12]",Intermediate/Difficult,AZ
+7055819,sandal-trail,0.5,3.0,401.0,No Dogs,"['Fall Colors', 'Views']","[5.0, 2]",Easy/Intermediate,AZ
+7004289,cholla-mountain-loop-trail,3.2,215.0,213.0,Unknown,"['Birding', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7040476,ma-ha-tauk-trail,1.2,374.0,151.0,,['-none-'],"[5.0, 1]",Intermediate,AZ
+7002838,windgate-pass-trail,3.1,902.0,475.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,AZ
+7040400,cone-mountain-trail,1.9,163.0,129.0,Leashed,['Views'],"[5.0, 1]",Easy,AZ
+7003654,tonto-tank-trail,2.8,0.0,437.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,AZ
+7004292,maverick-trail,1.4,36.0,87.0,Unknown,"['Birding', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7004290,chuckwagon-trail,1.0,105.0,0.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7004291,vaquero-trail,0.9,51.0,31.0,Unknown,"['Birding', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7045628,spent-spade,0.6,0.0,62.0,Leashed,['Views'],"[5.0, 1]",Intermediate,AZ
+7042424,butcher-jones-trail-463,2.7,236.0,228.0,No Dogs,"['Birding', 'Lake', 'Views']","[4.8, 4]",Easy/Intermediate,AZ
+7023467,mormon-trail,1.2,711.0,0.0,Leashed,['Views'],"[4.1, 14]",Intermediate,AZ
+7012405,saguaro-vista-trail,1.1,111.0,23.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Easy/Intermediate,AZ
+7012407,black-rock-loop,1.6,102.0,107.0,Unknown,"['Birding', 'Views', 'Wildflowers']","[5.0, 4]",Easy/Intermediate,AZ
+7024239,pusch-peak-trail,1.9,2605.0,0.0,Unknown,"['Views', 'Wildlife']","[4.4, 13]",Difficult,AZ
+7012505,safford-peak-trail,1.2,1310.0,65.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",,AZ
+7015594,azt-passage-11-santa-catalina-mountains,11.8,3038.0,1836.0,No Dogs,"['Views', 'Commonly Backpacked']","[5.0, 2]",Intermediate,AZ
+7021055,old-baldy-trail-372,4.1,3303.0,0.0,Leashed,"['Birding', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 11]",Difficult,AZ
+7026064,echo-canyon-trail,1.7,40.0,535.0,No Dogs,"['River/Creek', 'Views']","[5.0, 2]",Intermediate,AZ
+7016855,ridgeline-trail,2.9,103.0,722.0,Unknown,['Views'],"[5.0, 2]",Easy/Intermediate,AZ
+7034780,canada-del-oro,7.8,40.0,3493.0,No Dogs,"['River/Creek', 'Views']","[5.0, 1]",Difficult,AZ
+7025674,big-balanced-rock-trail,1.0,92.0,240.0,No Dogs,['Views'],"[5.0, 1]",Easy/Intermediate,AZ
+7023990,cochie-springs-trail,3.4,452.0,711.0,Leashed,['Views'],"[5.0, 1]",Intermediate,AZ
+7025676,heart-of-rocks-loop,0.7,147.0,168.0,No Dogs,['Views'],"[5.0, 1]",Intermediate,AZ
+7044587,estes-canyon-trail,1.6,435.0,18.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AZ
+7017855,badlands-trail,6.3,366.0,344.0,Unknown,['Views'],"[5.0, 1]",Easy,AZ
+7037847,ryans-trail,3.4,326.0,114.0,Unknown,['Views'],"[5.0, 1]",Intermediate,AZ
+7050510,hohokam-trail,3.6,339.0,159.0,Off-leash,['-none-'],"[5.0, 1]",Easy/Intermediate,AZ
+7036025,kanyes-krazy-loop,4.4,450.0,325.0,Unknown,['Views'],"[5.0, 1]",Easy/Intermediate,AZ
+7016851,wild-burro-loop-trail,1.6,489.0,117.0,Unknown,['Views'],"[5.0, 1]",Easy/Intermediate,AZ
+7040167,ridge-trail,3.1,188.0,427.0,Unknown,['Views'],"[5.0, 1]",Intermediate,AZ
+7037660,buddha,2.8,149.0,157.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,AR
+7037646,yucca,1.2,43.0,13.0,Unknown,['-none-'],"[5.0, 1]",Easy,AR
+7037655,center-road,0.5,5.0,13.0,Unknown,['-none-'],"[5.0, 1]",Easy,AR
+7037642,garys-little-lamb,0.5,21.0,54.0,Unknown,['Views'],"[5.0, 1]",Intermediate,AR
+7042470,west-summit-trail,0.6,634.0,0.0,Leashed,"['Birding', 'Fall Colors', 'Views']","[4.5, 4]",Intermediate/Difficult,AR
+7036182,green-loop,4.9,381.0,390.0,Leashed,['-none-'],"[4.5, 2]",Intermediate,AR
+7035401,cadron-settlement-trail,5.3,571.0,570.0,Leashed,['Views'],"[4.0, 1]",Intermediate,AR
+7036023,5mile-trail,5.7,347.0,346.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,AR
+7031015,grilled,3.4,149.0,147.0,Off-leash,['Views'],"[4.0, 1]",Easy/Intermediate,AR
+7037654,outer-loop,3.6,119.0,139.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,AR
+7037652,airport-loop,1.0,30.0,31.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,AR
+7054311,prairie-trail,1.8,16.0,12.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,AR
+7037640,flatlands-loop,2.2,110.0,109.0,Off-leash,['-none-'],"[4.0, 1]",Intermediate,AR
+7037637,merlin,2.7,231.0,145.0,Unknown,['-none-'],"[4.0, 1]",Intermediate,AR
+7056055,flatwoods-trail,0.8,17.0,15.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Easy,AR
+7037641,elevator,0.6,115.0,1.0,Unknown,['-none-'],"[4.0, 1]",Easy/Intermediate,AR
+7037658,advanced-trig,1.6,173.0,221.0,Unknown,['-none-'],"[4.0, 1]",Intermediate,AR
+7037394,taylor-homestead,1.7,192.0,160.0,Leashed,['-none-'],"[5.0, 1]",Easy/Intermediate,AR
+7035636,blowing-springs-loop,4.0,374.0,380.0,Leashed,"['Cave', 'Views']","[4.8, 4]",Intermediate,AR
+7037049,bashore-ridge-loop,3.5,446.0,482.0,Unknown,['Lake'],"[4.3, 6]",Easy/Intermediate,AR
+7035132,war-eagle-loop,5.8,476.0,480.0,Leashed,['Views'],"[4.5, 2]",Intermediate,AR
+7047244,crazy-mary,1.5,0.0,289.0,Leashed,['-none-'],"[4.5, 2]",Intermediate,AR
+7038871,overlook-trail,1.8,324.0,289.0,Leashed,"['Fall Colors', 'Views']","[4.5, 2]",Intermediate,AR
+7047261,spellbound,1.5,71.0,249.0,Leashed,"['Fall Colors', 'Views']","[4.5, 2]",Intermediate/Difficult,AR
+7053328,fitzgerald,0.6,23.0,24.0,Unknown,"['Fall Colors', 'Views', 'Wildlife']","[4.5, 2]",Intermediate/Difficult,AR
+7034709,little-clifty-loop,8.1,777.0,746.0,Unknown,['-none-'],"[4.3, 3]",Intermediate,AR
+7022868,the-back-40-loop,22.0,1637.0,1643.0,Unknown,['-none-'],"[4.0, 3]",Intermediate/Difficult,AR
+7038867,beacham-trail,3.5,254.0,201.0,Leashed,['-none-'],"[4.0, 3]",Easy/Intermediate,AR
+7044446,dutton-hollow-trail,2.9,398.0,401.0,Leashed,['-none-'],"[4.0, 3]",Easy/Intermediate,AR
+7040627,mt-sequoyah-inner-loop,3.0,371.0,412.0,Unknown,"['Fall Colors', 'Wildlife']","[4.0, 2]",Intermediate,AR
+7038859,miners-rock-trail,3.1,298.0,336.0,Leashed,['-none-'],"[4.0, 2]",Intermediate/Difficult,AR
+7040630,mt-sequoyah-outer-loop,1.9,147.0,200.0,Unknown,"['Fall Colors', 'Wildlife']","[4.0, 2]",Intermediate,AR
+7047243,last-call,1.1,237.0,73.0,Leashed,['-none-'],"[4.0, 2]",Intermediate,AR
+7053330,1857,0.1,15.0,5.0,Unknown,['-none-'],"[4.0, 2]",,AR
+7035304,black-loop,6.8,519.0,522.0,Leashed,['-none-'],"[4.0, 1]",Intermediate/Difficult,AR
+7049168,deer-run-trail,4.5,522.0,376.0,Unknown,['-none-'],"[4.0, 1]",Intermediate/Difficult,AR
+7057729,big-river-trail-west-memphis-trail,3.8,49.0,49.0,Unknown,['-none-'],"[4.0, 1]",Easy,TN
+7049169,camp-area-a-biking-trail,1.9,15.0,183.0,Unknown,['-none-'],"[3.0, 1]",Easy/Intermediate,AR
+7059737,robinson-road,2.3,19.0,17.0,Leashed,['-none-'],"[3.0, 1]",Easy,TN
+7059736,dacus-lake-road,2.8,79.0,35.0,Leashed,['-none-'],"[3.0, 1]",Easy,TN
+7059735,river-view-trail,1.8,9.0,6.0,Leashed,['-none-'],"[3.0, 1]",Easy,TN
+7032962,hemmed-in-hollow-trail,2.6,21.0,1087.0,No Dogs,"['River/Creek', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.8, 4]",Difficult,AR
+7042494,lost-valley-trail,1.0,235.0,0.0,Leashed,['Waterfall'],"[4.7, 6]",Easy/Intermediate,AR
+7042029,whitaker-point-trail-hawksbill-crag,1.4,87.0,460.0,Leashed,"['Fall Colors', 'Spring', 'Views']","[4.5, 8]",Easy/Intermediate,AR
+7044015,cedar-falls-trail,0.9,252.0,273.0,Leashed,"['River/Creek', 'Swimming', 'Waterfall']","[4.5, 6]",Intermediate,AR
+7042383,centerpoint-trail,3.7,31.0,1231.0,No Dogs,['-none-'],"[4.2, 9]",Intermediate,AR
+7023387,pedestal-rocks-loop,2.3,245.0,301.0,Leashed,"['Cave', 'Views']","[4.5, 2]",Intermediate,AR
+7036753,cane-creek-lake-trail,16.0,347.0,345.0,Leashed,['Lake'],"[2.5, 2]",Intermediate,AR
+7038106,fern-hollow-trail,8.4,447.0,446.0,Leashed,"['Lake', 'Views']","[3.0, 3]",Intermediate,AR
+7048798,towering-pines-trail,0.6,65.0,68.0,Leashed,['Lake'],"[3.0, 1]",Easy,AR
+7025717,fern-loop,0.6,66.0,67.0,Unknown,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildlife']","[5.0, 1]",Easy,AR
+7025716,inner-loop,0.8,54.0,49.0,Unknown,['-none-'],"[5.0, 1]",Easy,AR
+7032495,ouachita-nrt-segment-9,18.7,1723.0,2290.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,AR
+7027268,the-light-on-the-hill,0.7,207.0,3.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,AR
+7032491,ouachita-nrt-segment-7,20.3,2089.0,1882.0,,['-none-'],"[5.0, 1]",Intermediate/Difficult,AR
+7054223,electric-island-nature-trail,2.0,173.0,173.0,Off-leash,"['Birding', 'Fall Colors', 'Lake', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 2]",Easy,AR
+7007978,grand-promenade,0.4,46.0,11.0,Leashed,"['Fall Colors', 'Views']","[4.5, 2]",Easy/Intermediate,AR
+7032486,ouachita-nrt-segment-4,17.9,2189.0,2588.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Waterfall', 'Wildlife']","[4.5, 2]",Intermediate,AR
+7023603,caney-creek-trail,9.5,850.0,507.0,Unknown,"['Fall Colors', 'River/Creek']","[4.1, 8]",Intermediate,AR
+7009535,little-missouri-river-trail,13.3,1232.0,649.0,Off-leash,"['Birding', 'Fall Colors', 'River/Creek', 'Swimming', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.2, 5]",Intermediate,AR
+7007973,gulpha-gorge-trail,0.5,3.0,301.0,Unknown,"['Fall Colors', 'Views']","[4.3, 4]",Difficult,AR
+7007986,sunset-trail-stonebridge-section,2.1,503.0,210.0,No Dogs,"['Birding', 'Fall Colors', 'Lake', 'River/Creek']","[4.0, 4]",Intermediate,AR
+7025016,summit-trail,6.2,3105.0,44.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate/Difficult,CA
+7007648,sutro-baths-upper-trail,0.3,6.0,113.0,Unknown,['Views'],"[5.0, 3]",Intermediate,CA
+7007275,pirates-cove-trail,1.5,468.0,307.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 4]",Intermediate,CA
+7019502,berry-creek-falls-trail,1.0,495.0,25.0,No Dogs,"['River/Creek', 'Waterfall']","[5.0, 4]",Intermediate,CA
+7007264,sca-trail,1.1,1.0,216.0,No Dogs,['Views'],"[5.0, 2]",Intermediate,CA
+7039768,ohlone-bluff-trail,4.7,67.0,77.0,No Dogs,['Views'],"[4.8, 8]",Easy,CA
+7044883,san-pedro-rock,1.2,16.0,39.0,No Dogs,"['Birding', 'Cave', 'Views', 'Wildlife']","[5.0, 1]",Intermediate,CA
+7012808,saratoga-gap-trail,3.6,314.0,976.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,CA
+7024969,huckleberry-path,2.4,361.0,429.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[5.0, 3]",Intermediate,CA
+7012680,redwood-grove-loop-trail,0.7,11.0,12.0,Unknown,"['Views', 'Wildlife']","[4.8, 6]",Easy,CA
+7007340,fern-creek-trail,0.4,142.0,12.0,No Dogs,"['River/Creek', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,CA
+7039756,englemans-loop,3.7,474.0,466.0,No Dogs,['-none-'],"[5.0, 2]",Easy/Intermediate,CA
+7001402,alamere-falls-trail,0.4,0.0,186.0,No Dogs,"['Views', 'Waterfall', 'Wildlife']","[4.8, 5]",Intermediate/Difficult,CA
+7024627,plankwalk-trail,0.3,185.0,0.0,No Dogs,['Views'],"[5.0, 2]",Intermediate/Difficult,CA
+7006587,california-coastal-trail-section-28-29,4.8,612.0,634.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,CA
+7012784,deer-flat-fire-road,1.7,2.0,768.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Intermediate,CA
+7006642,matt-davis-trail,6.8,1885.0,827.0,Unknown,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.7, 7]",Intermediate/Difficult,CA
+7027545,bald-mountain-trail,0.7,46.0,14.0,No Dogs,['Views'],"[5.0, 1]",Easy,CA
+7001421,coast-trail-north,10.6,861.0,1208.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,CA
+7003679,high-peaks-trail,5.0,1419.0,1793.0,No Dogs,"['Birding', 'Views', 'Wildflowers']","[5.0, 8]",Intermediate/Difficult,CA
+7005249,bear-gulch-cave-trail,0.2,177.0,9.0,Unknown,"['Cave', 'River/Creek', 'Waterfall', 'Wildlife']","[5.0, 6]",Intermediate,CA
+7003933,bluff-trail,2.1,134.0,79.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.9, 7]",Easy,CA
+7003759,balconies-cave-trail,0.4,31.0,128.0,No Dogs,"['Cave', 'River/Creek']","[4.8, 6]",Intermediate,CA
+7011097,vicente-flat-trail,5.0,1772.0,334.0,Leashed,['Views'],"[4.8, 5]",Intermediate/Difficult,CA
+7035411,cypress-grove-trail,0.6,28.0,20.0,No Dogs,"['Birding', 'Views']","[5.0, 2]",Easy,CA
+7035415,north-shore-trail,0.8,145.0,78.0,No Dogs,"['Birding', 'Views']","[5.0, 2]",Easy/Intermediate,CA
+7033295,beebe-trail,1.1,0.0,309.0,No Dogs,['Views'],"[5.0, 1]",Intermediate,CA
+7053987,lovers-lookout-trail,0.1,43.0,0.0,Leashed,"['Views', 'Wildflowers']","[5.0, 1]",Easy,CA
+7055119,manzanita-park-outer-loop,2.7,310.0,261.0,Leashed,['-none-'],"[5.0, 1]",Easy,CA
+7008374,cerro-alto,4.7,1411.0,1412.0,Off-leash,['Views'],"[4.6, 9]",Intermediate,CA
+7006242,gaviota-peak-fire-road,3.0,2036.0,54.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.7, 3]",Intermediate/Difficult,CA
+7003437,ewoldsen-trail,3.3,1257.0,689.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildflowers']","[4.7, 3]",Intermediate,CA
+7034277,m-trail,0.9,266.0,151.0,Leashed,['Views'],"[4.7, 3]",Intermediate/Difficult,CA
+7018656,valencia-peak-trail,2.3,1256.0,15.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.2, 11]",Intermediate,CA
+7021184,oats-peak-trail,6.8,1291.0,1032.0,Unknown,"['Views', 'Wildflowers']","[4.5, 4]",Intermediate,CA
+7003642,balconies-cliffs-trails,0.8,162.0,257.0,No Dogs,"['Views', 'Wildflowers']","[4.5, 4]",Easy/Intermediate,CA
+7003597,chalone-peak-trail,3.3,1695.0,0.0,No Dogs,"['Views', 'Wildflowers']","[4.4, 5]",Intermediate,CA
+7003784,moses-spring-trail,0.5,236.0,18.0,No Dogs,"['River/Creek', 'Views', 'Wildlife']","[4.4, 5]",Easy/Intermediate,CA
+7006906,pine-ridge-trail-3e06,23.1,7849.0,3831.0,Leashed,"['Birding', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 2]",Difficult,CA
+7052396,lodi-lake-wilderness-trail,1.1,59.0,59.0,Leashed,['-none-'],"[5.0, 2]",Easy,CA
+7041108,mifflin-loop,2.4,355.0,376.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,CA
+7041104,janes-loop,1.4,166.0,163.0,Leashed,['Wildflowers'],"[5.0, 1]",Easy/Intermediate,CA
+7041111,aimees-loop,1.3,84.0,83.0,Leashed,['-none-'],"[5.0, 1]",Easy,CA
+7041099,nica,2.6,293.0,220.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,CA
+7012496,san-joaquin-river-trail,14.5,2110.0,2564.0,Unknown,"['River/Creek', 'Views', 'Wildflowers']","[4.5, 2]",Intermediate,CA
+7012718,discovery-trail,3.3,954.0,21.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.0, 1]",Intermediate,CA
+7041105,warrior-loop,1.9,331.0,329.0,Leashed,['-none-'],"[4.0, 1]",Intermediate/Difficult,CA
+7042847,tehachapi-mountain-trail,2.2,1613.0,0.0,Leashed,"['Birding', 'Fall Colors', 'Spring', 'Views', 'Wildlife']","[3.7, 3]",Intermediate/Difficult,CA
+7047698,blue-oak-trail,3.3,42.0,47.0,Leashed,['-none-'],"[3.5, 2]",Easy/Intermediate,CA
+7019430,hidden-homes-nature-trail,0.5,0.0,0.0,Unknown,"['Birding', 'Wildlife']","[3.0, 3]",Easy,CA
+7012760,buck-ridge-purple-loop,1.3,92.0,91.0,Unknown,"['Fall Colors', 'Views']","[3.0, 2]",Easy/Intermediate,CA
+7023699,lost-slough-wetlands-walk-trail,1.1,20.0,20.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[3.0, 1]",Easy,CA
+7023703,river-walk-trail,2.9,67.0,69.0,No Dogs,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[3.0, 1]",Easy,CA
+7012895,buck-ridge-blue-loop,2.5,227.0,229.0,Unknown,"['Lake', 'Views']","[3.0, 1]",Easy/Intermediate,CA
+7012897,buck-ridge-green-loop,1.8,261.0,174.0,Unknown,['Views'],"[3.0, 1]",Intermediate,CA
+7012923,buck-ridge-red-loop,0.8,151.0,146.0,Unknown,"['River/Creek', 'Views']","[3.0, 1]",Intermediate,CA
+7034658,ripon-stanislaus-river-trail,4.8,208.0,199.0,Leashed,['-none-'],"[2.6, 5]",Easy,CA
+7022475,freedom-trail,1.6,31.0,153.0,Leashed,['-none-'],Mild elevation change as you head south. Perfect for teaching beginners how to ride a bicycle. Dogs are welcome leashed.,"[2.5, 2]",Easy,CA
+7052469,fahrens-creek-trail,2.4,32.0,28.0,Unknown,['-none-'],"[2.0, 1]",Easy,CA
+7052395,lodi-lake-exercise-trail,0.5,20.0,17.0,Unknown,['-none-'],"[0.0, 0]",Easy,CA
+7017697,barker-dam-nature-trail,1.2,52.0,45.0,No Dogs,"['Cave', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[4.1, 26]",Easy,CA
+7013361,golden-canyon-trail,2.8,964.0,181.0,No Dogs,['Views'],"[4.6, 13]",Easy/Intermediate,CA
+7027510,ladder-canyon-trail,1.6,637.0,50.0,Leashed,"['Cave', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate,CA
+7049692,hagen-canyon,0.8,31.0,31.0,Leashed,"['Birding', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy,CA
+7016874,boy-scout-trail,8.3,199.0,1374.0,No Dogs,"['Views', 'Wildflowers']","[4.3, 7]",Easy/Intermediate,CA
+7016900,california-riding-and-hiking-trail,37.6,2819.0,3899.0,No Dogs,"['Birding', 'Views', 'Wildflowers']","[4.7, 3]",Easy/Intermediate,CA
+7016882,lost-horse-mine-loop,6.0,716.0,559.0,No Dogs,"['Views', 'Wildflowers']","[3.9, 15]",Intermediate,CA
+7028239,slit-canyon,4.8,2338.0,0.0,No Dogs,['Views'],"[4.5, 2]",,CA
+7017165,split-rock-loop-trail,2.0,228.0,233.0,No Dogs,"['Views', 'Wildflowers']","[3.9, 14]",Easy/Intermediate,CA
+7016896,quail-springs-trail,3.2,3.0,276.0,No Dogs,['-none-'],"[4.3, 3]",Easy,CA
+7013364,gower-gulch-trail,3.0,25.0,685.0,No Dogs,['Views'],"[4.0, 10]",Easy/Intermediate,CA
+7018976,willow-hole-trail,2.3,24.0,123.0,No Dogs,"['Views', 'Wildflowers']","[4.2, 6]",Easy/Intermediate,CA
+7031057,stubbe-springs-loop-trail,7.1,559.0,763.0,No Dogs,"['Views', 'Wildflowers']","[4.3, 3]",Intermediate,CA
+7016213,boo-hoff-trail,8.0,1452.0,1852.0,Unknown,"['Views', 'Wildlife']","[4.2, 6]",Intermediate/Difficult,CA
+7027511,painted-canyon-trail,2.1,630.0,30.0,Leashed,"['Cave', 'Views', 'Wildflowers', 'Wildlife']","[4.3, 3]",Easy/Intermediate,CA
+7016903,panorama-loop-trail,2.5,708.0,583.0,No Dogs,"['Views', 'Wildflowers', 'Wildlife']","[4.2, 5]",Intermediate,CA
+7016875,cap-rock-nature-trail,0.4,11.0,12.0,No Dogs,['Views'],"[4.3, 4]",Easy/Intermediate,CA
+7004239,cholla-cactus-garden-trail,0.2,12.0,14.0,No Dogs,['Wildflowers'],"[4.2, 5]",Easy,CA
+7016887,pine-city-trail,2.1,186.0,21.0,No Dogs,"['Views', 'Wildlife']","[4.0, 3]",Easy/Intermediate,CA
+7016883,lost-horse-trail,5.0,15.0,364.0,No Dogs,['-none-'],"[3.8, 6]",Intermediate,CA
+7012823,glacier-lake-trail,2.4,592.0,0.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 2]",Easy/Intermediate,CA
+7036576,lakeview-connector-trail,3.7,286.0,486.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,CA
+7041298,camron-trail,4.4,142.0,171.0,Leashed,['-none-'],"[5.0, 1]",Easy,CA
+7052086,gold-valley-rim-trail,5.3,578.0,983.0,Unknown,['-none-'],"[5.0, 1]",Intermediate/Difficult,CA
+7054561,mount-lola-trail-14e08,9.1,2599.0,1575.0,Leashed,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,CA
+7042395,hoot-trail,1.3,45.0,346.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,CA
+7050603,alan-thiesen-trail,1.1,253.0,242.0,Unknown,"['Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,CA
+7035180,butcher-trail,4.9,213.0,2233.0,Unknown,['River/Creek'],"[5.0, 1]",Difficult,CA
+7034975,big-boulder,6.6,805.0,2109.0,Leashed,['-none-'],"[5.0, 1]",Difficult,CA
+7012991,grouse-ridge-trail,9.8,2165.0,1754.0,Leashed,"['Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 4]",Intermediate,CA
+7022038,hites-cove-trail,3.5,537.0,363.0,Leashed,"['River/Creek', 'Spring', 'Wildflowers']","[4.5, 4]",Intermediate/Difficult,CA
+7002616,confluence-trail,1.7,12.0,472.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[4.5, 2]",Easy/Intermediate,CA
+7044528,coast-to-crest-trail,27.6,3311.0,3625.0,No Dogs,"['Wildflowers', 'Wildlife']","[4.5, 2]",Intermediate,CA
+7036614,south-yuba-trail-edwards-crossing-to-purdon-crossing,4.4,538.0,783.0,Unknown,"['River/Creek', 'Views']","[4.5, 2]",Difficult,CA
+7023207,south-fork-american-river-trail,11.7,1652.0,1397.0,Unknown,"['River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.2, 5]",Intermediate,CA
+7047949,dave-moore-nature-trail,1.1,103.0,102.0,Leashed,"['River/Creek', 'Views', 'Wildflowers']","[4.5, 2]",Easy/Intermediate,CA
+7035251,scotts-flat-lake-trail,5.1,197.0,824.0,Unknown,['Lake'],"[4.3, 3]",Easy/Intermediate,CA
+7022108,quarry-trail,5.6,710.0,655.0,Leashed,"['Birding', 'River/Creek', 'Swimming', 'Views']","[3.7, 7]",Easy/Intermediate,CA
+7037135,deer-creek-tribute-trail,4.8,171.0,424.0,Unknown,['River/Creek'],"[4.0, 3]",Easy/Intermediate,CA
+7044724,euchre-bar-trail,3.4,390.0,1759.0,Off-leash,"['River/Creek', 'Swimming']","[4.0, 2]",Intermediate/Difficult,CA
+7023671,gem-lake-trail,3.6,695.0,42.0,Leashed,"['Birding', 'Fall Colors', 'Lake', 'River/Creek', 'Swimming', 'Wildflowers', 'Wildlife']","[5.0, 6]",Intermediate,CA
+7007570,grand-canyon-of-the-tuolumne,16.5,3905.0,2624.0,No Dogs,"['Swimming', 'Views', 'Waterfall', 'Wildlife']","[5.0, 5]",Intermediate/Difficult,CA
+7021574,lewis-creek-trail,2.9,905.0,118.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Spring', 'Swimming', 'Waterfall']","[4.7, 10]",Intermediate,CA
+7010873,cucamonga-peak-trail-7w04,7.4,2989.0,1314.0,Leashed,"['Views', 'Waterfall']","[4.6, 15]",Intermediate/Difficult,CA
+7010865,mt-baldy-trail-7w12,5.4,5390.0,0.0,Leashed,"['River/Creek', 'Views', 'Wildlife']","[4.5, 17]",Intermediate/Difficult,CA
+7022126,icehouse-canyon-trail-7w07a,3.5,2573.0,8.0,Leashed,"['Birding', 'Fall Colors', 'Views', 'Waterfall', 'Wildflowers', 'Wildlife']","[4.4, 16]",Intermediate/Difficult,CA
+7021622,don-mullally-trail,5.5,1291.0,1297.0,Leashed,"['Birding', 'River/Creek', 'Spring', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Intermediate/Difficult,CA
+7053214,falls-trail,0.7,333.0,6.0,Leashed,['Waterfall'],"[5.0, 2]",Easy/Intermediate,CA
+7009467,pct-highway-15-to-agua-dulce,112.4,20065.0,20514.0,Leashed,"['Birding', 'Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,CA
+7005240,west-ridge-trail,2.6,614.0,77.0,Leashed,['Views'],"[4.7, 6]",Easy/Intermediate,CA
+7045673,barrett-stoddard-truck-trail,5.9,962.0,1018.0,Unknown,['Views'],"[5.0, 1]",Intermediate,CA
+7030892,ken-burton-trail,2.3,30.0,1115.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,CA
+7038341,lizard-trail,1.2,9.0,333.0,Unknown,"['Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Easy/Intermediate,CA
+7042357,chumash-trail-simi,2.7,30.0,1116.0,Leashed,"['Fall Colors', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 1]",Intermediate,CA
+7038186,old-emerald-trail,0.7,0.0,419.0,Unknown,"['Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,CA
+7030899,telegraph-peak-trail-7w06a,0.3,125.0,18.0,Leashed,['Views'],"[5.0, 1]",Intermediate,CA
+7034429,gale-motorway,1.1,549.0,11.0,Leashed,"['Views', 'Wildlife']","[5.0, 1]",Difficult,CA
+7062384,laguna-ridge-trail,1.3,72.0,730.0,No Dogs,"['Birding', 'Views', 'Wildlife']","[5.0, 1]",Intermediate/Difficult,CA
+7006852,devils-backbone-trail-7w05,3.1,2184.0,11.0,Leashed,"['Views', 'Wildflowers']","[4.3, 13]",Intermediate/Difficult,CA
+7023785,red-rock-canyon-trail,0.6,192.0,0.0,No Dogs,['Wildlife'],"[4.6, 8]",Easy/Intermediate,CA
+7019048,big-horn-mine-trail,1.9,445.0,160.0,Leashed,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[4.5, 8]",Easy/Intermediate,CA
+7005178,pacific-crest-trail-cloudburst-to-cooper-canyon,3.8,208.0,1531.0,No Dogs,"['River/Creek', 'Views']","[4.7, 3]",Intermediate,CA
+7041389,buck-gully-trail,2.0,315.0,3.0,Unknown,['-none-'],"[4.7, 3]",Easy/Intermediate,CA
+7011796,lost-coast-trail,27.3,1840.0,1820.0,Off-leash,"['Fall Colors', 'River/Creek', 'Views', 'Wildflowers', 'Wildlife']","[4.6, 12]",Intermediate,CA
+7029683,patricks-point-rim-trail,1.7,153.0,148.0,No Dogs,"['Birding', 'Views', 'Wildflowers', 'Wildlife']","[5.0, 3]",Easy/Intermediate,CA
+7029691,kortum-trail,3.6,356.0,249.0,No Dogs,"['Views', 'Wildflowers']","[4.8, 6]",Easy/Intermediate,CA
+7017269,fern-canyon-loop-trail,0.7,206.0,198.0,No Dogs,"['River/Creek', 'Views']","[4.5, 11]",Easy/Intermediate,CA
+7017235,tall-trees-trail,2.5,57.0,787.0,No Dogs,"['River/Creek', 'Views']","[4.5, 12]",Easy/Intermediate,CA
+7017373,coastal-trail-south,9.8,152.0,210.0,Unknown,"['Birding', 'River/Creek', 'Views', 'Wildlife']","[5.0, 2]",Easy/Intermediate,CA
+7029696,mendocino-headlands-coastal-trail,2.5,78.0,97.0,Unknown,['Views'],"[5.0, 1]",Easy,CA
+7049218,beith-creek-loop,3.0,745.0,611.0,Leashed,"['River/Creek', 'Waterfall']","[5.0, 1]",Intermediate,CA
+7030582,hammond-trail,5.5,187.0,194.0,Leashed,"['Birding', 'Views', 'Wildlife']","[5.0, 1]",Easy/Intermediate,CA
+7038605,point-st-george-trail,1.4,78.0,83.0,Unknown,"['Birding', 'Views', 'Wildflowers']","[5.0, 1]",Easy,CA
+7049664,arcata-ridge-trail-sunny-brae-section,1.1,464.0,3.0,Leashed,['River/Creek'],"[5.0, 1]",Intermediate,CA
+7025820,blackberry-trail,1.5,47.0,69.0,Unknown,"['Birding', 'River/Creek']","[5.0, 1]",Easy,CA
+7018675,pioneer-nature-trail,0.9,138.0,90.0,Unknown,['Views'],"[5.0, 1]",Easy,CA
+7032932,stump-beach-trail,1.6,10.0,659.0,No Dogs,['-none-'],"[5.0, 1]",Intermediate,CA
+7049246,panorama-court-connector-trail,0.4,55.0,128.0,Leashed,['-none-'],"[5.0, 1]",Intermediate,CA
+7020869,south-gerstle-trail,0.9,241.0,13.0,Unknown,['Views'],"[5.0, 1]",Intermediate,CA
+7049099,scarf-nature-fitness-trail,0.4,101.0,32.0,Unknown,['River/Creek'],"[5.0, 1]",Easy,CA
+7029954,klamath-beach-trail,0.2,0.0,92.0,Leashed,"['Birding', 'River/Creek', 'Wildlife']","[5.0, 1]",Easy/Intermediate,CA
+7049266,downhill-trail,0.3,0.0,221.0,Leashed,['-none-'],"[5.0, 1]",Intermediate/Difficult,CA
+7018829,janes-creek-road-11,1.5,472.0,122.0,Unknown,['-none-'],"[5.0, 1]",Intermediate,CA
