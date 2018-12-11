@@ -9,7 +9,9 @@ from bs4 import BeautifulSoup
 import re
 import csv
 
-
+# The driver function of the program. This takes the hiking
+# projects uppermost level directory page and parses downwards
+# through the directory, eventually obtaining info from trails
 def spider (max_pages):
 
     seed = "https://www.hikingproject.com/directory/areas"
@@ -19,29 +21,42 @@ def spider (max_pages):
     urls.append(seed)
     visited = 0
 
+    # Opens csv for writing
     with open('trail_data.csv', mode='w') as trail_file:
         writer = csv.writer(trail_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+        # Column headers
         writer.writerow(['ID', 'Name', 'Length (miles)', 'Ascent (ft)', 'Descent (ft)', 'Dogs', 'Features', 'Ratings', 'Difficulty', 'State'])
+
+        # Terminates if no unvisited urls are left, or if page limit is reached
         while visited < max_pages and urls != []:
 
             info = []
             links = []
             url = urls[0]
             urls = urls[1:]
+
             if visited_links.count(url) > 0:
                 continue
             
             visited_links.append(url)
             visited = visited + 1
+
+            # Counter to keep track of progress
             print(visited)
 
+            # Uppermost level of directory structure
             if "www.hikingproject.com/directory/areas" in url:
                 links = parse_areas(url)
 
+            # Inner levels of directory structure
             elif "www.hikingproject.com/directory/" in url:
                 links = parse_directory(url)
 
+            # Trail level, where information is obtained
             elif "www.hikingproject.com/trail/" in url:
+
+                # Name and ID info taken from url directly
                 p = re.compile(r'\d+')
                 id = p.findall(url)[0]
 
@@ -51,17 +66,20 @@ def spider (max_pages):
                 info.append(id)
                 info.append(name)
 
+                # Trail information extracted
                 data = parse_trail(url)
                 info = info + data
 
                 writer.writerow(info)
 
+            # We only care about urls of the above types
             else:
                 continue
 
             urls = urls + links
         
 
+# Parses inner directory webpages
 def parse_directory(url):
 
     new_urls = []
@@ -69,6 +87,9 @@ def parse_directory(url):
 
     wp = BeautifulSoup(webpage.content, 'html.parser')
 
+    # Two types of pages in directory, obtains more urls from each type
+
+    # Handles for one type of webpage present in the directory
     tbl = wp.find('table', class_="table table-striped trail-table")
     if tbl:
         links = tbl.find_all('tr')
@@ -76,6 +97,7 @@ def parse_directory(url):
             if link:
                 new_urls.append(link.get("data-href"))
 
+    # Handles for the other type of webpage present in the directory
     tbl = wp.find('div', class_="list-group-item")
     if tbl:
         links = tbl.find_all('a')
@@ -86,6 +108,7 @@ def parse_directory(url):
     return new_urls
 
 
+# Parses uppermost page in directory structure for area urls
 def parse_areas(url):
 
     new_urls = []
@@ -103,6 +126,7 @@ def parse_areas(url):
     return new_urls
 
 
+# Scrapes data at the trail level
 def parse_trail(url):
 
     info = []
@@ -112,6 +136,7 @@ def parse_trail(url):
 
     tbl = wp.find_all('tr', class_="bottom-border")
 
+    # Obtains length, ascent, descent information
     if tbl:
         for t in tbl:
             measures = t.find_all('span', class_="imperial")
@@ -127,6 +152,7 @@ def parse_trail(url):
         info.append('')
         info.append('')            
     
+    # obtains dog and feature information
     tbl = wp.find_all("h3", class_="mb-1")
     if tbl:
         dog = 0
@@ -150,6 +176,7 @@ def parse_trail(url):
         info.append('')
         info.append('')
 
+    # obtains rating and difficulty information
     tbl = wp.find("div", class_="row hidden-xs-down")
     if tbl:
         score_info = tbl.find("span", class_="title text-muted")
@@ -169,6 +196,7 @@ def parse_trail(url):
         info.append('')
         info.append('')
 
+    # obtains state information
     tbl = wp.find("ol", class_="breadcrumb")
     if tbl:
         bc = tbl.find_all("li", class_="breadcrumb-item")
@@ -182,6 +210,7 @@ def parse_trail(url):
     return info
 
 
+# Parses HTML to get relevant numerical values
 def parse_measures(measure):
     p = re.compile(r'\d+\.?,?\d*')
     m = p.findall(measure)
@@ -191,6 +220,7 @@ def parse_measures(measure):
     return ''
 
 
+# Parses HTML to get string dog permissions
 def parse_dog(dog):
     p = re.compile(r'\n[a-zA-Z -/]+')
     dog_info = p.findall(dog)
@@ -201,6 +231,7 @@ def parse_dog(dog):
     return ''
 
 
+# Parses HTML to get a list of features
 def parse_feats(feats):
     feats = feats.split('\n')[1]
     feats = feats.split("·")
@@ -211,6 +242,7 @@ def parse_feats(feats):
     return cleaned_feats
 
 
+# Parses HTML to get the average rating and number of ratings
 def parse_score(scores):
     p = re.compile(r'\<span\>\d\.\d\<\/span\>')
     sc = p.findall(scores)
@@ -222,6 +254,7 @@ def parse_score(scores):
     return [sc, num_ratings]
 
 
+# Parses HTML to get the string difficulty
 def parse_diff(diff):
     p = re.compile(r'\"[A-Z][a-z]+?\/?[A-Z]?[a-z]*?\"')
     d = p.findall(diff)
@@ -231,9 +264,11 @@ def parse_diff(diff):
     return ''
 
 
+# Parses HTML to get the string State designator
 def parse_state(state):
     return state[-19:-17]
 
 
+# Main method, where you specify number of files to traverse
 if __name__ == "__main__":
     spider(2000)
